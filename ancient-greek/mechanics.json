@@ -1,0 +1,630 @@
+[
+    {
+        "ancient_greek_word": "μηχανικός",
+        "metadata": {
+            "english_spelling": "mēkhanikos",
+            "english_translation": "mechanic",
+            "pronunciation": "/meˈkhanɪkɒs/",
+            "part_of_speech": "adjective",
+            "brief_definition": "relating to mechanics or machines",
+            "etymology": "Derived from μηχανή (mēkhanē), which means 'machine'",
+            "example_sentence": {
+                "ancient_greek": "Ο μηχανικός είναι ειδικός στη λειτουργία των μηχανημάτων.",
+                "english_spelling_of_the_ancient_greek": "O mēkhanikos einai eidikos stē leitourgia ton mēkhanēmatōn.",
+                "translated_into_english": "The mechanic is an expert in the operation of machines."
+            }
+        }
+    },
+    {
+        "ancient_greek_word": "μηχανή",
+        "metadata": {
+            "english_spelling": "mēkhanē",
+            "english_translation": "machine",
+            "pronunciation": "/meˈkhanɛː/",
+            "part_of_speech": "noun",
+            "brief_definition": "a device consisting of one or more parts that uses energy to perform a specific task",
+            "etymology": "Derived from μηχανάω (mēkhanáō), which means 'to contrive'",
+            "example_sentence": {
+                "ancient_greek": "Η μηχανή είναι σχεδιασμένη για να παρέχει ενέργεια.",
+                "english_spelling_of_the_ancient_greek": "Hē mēkhanē einai schediasmenē gia na parechei energeia.",
+                "translated_into_english": "The machine is designed to provide energy."
+            }
+        }
+    },
+    {
+        "ancient_greek_word": "μηχανικός τέχνη",
+        "metadata": {
+            "english_spelling": "mēkhanikos tékhnē",
+            "english_translation": "mechanical art",
+            "pronunciation": "/meˈkhanɪkɒs ˈteknɛː/",
+            "part_of_speech": "noun",
+            "brief_definition": "the science and technology of machines",
+            "etymology": "Derived from μηχανικός (mēkhanikos), which means 'mechanic', and τέχνη (tékhnē), which means 'art' or 'skill'",
+            "example_sentence": {
+                "ancient_greek": "Οι μηχανικοί τέχνες είναι υπεύθυνοι για την σχεδίαση και τη λειτουργία των μηχανημάτων.",
+                "english_spelling_of_the_ancient_greek": "Oi mēkhanikoi tékhenes einai ypeuthynoi gia tēn schediasē kai tē leitourgia ton mēkhanēmatōn.",
+                "translated_into_english": "Mechanical arts are responsible for the design and operation of machines."
+            }
+        }
+    },
+    {
+        "ancient_greek_word": "δύναμη",
+        "metadata": {
+            "english_spelling": "dýnamis",
+            "english_translation": "force",
+            "pronunciation": "/ˈdɪnəmɪs/",
+            "part_of_speech": "noun",
+            "brief_definition": "a physical influence that changes or tends to change the motion of an object",
+            "etymology": "Derived from δυνάσσω (dynássō), which means 'to be able'",
+            "example_sentence": {
+                "ancient_greek": "Η δύναμη είναι απαραίτητη για την λειτουργία της μηχανής.",
+                "english_spelling_of_the_ancient_greek": "Hē dynamis einai aparaitētē gia tēn leitourgia tēs mēkhanēs.",
+                "translated_into_english": "Force is necessary for the operation of the machine."
+            }
+        }
+    },
+    {
+        "ancient_greek_word": "ενέργεια",
+        "metadata": {
+            "english_spelling": "energeia",
+            "english_translation": "energy",
+            "pronunciation": "/ɛnərˈdʒeɪə/",
+            "part_of_speech": "noun",
+            "brief_definition": "the ability to do work or cause change",
+            "etymology": "Derived from ενεργέω (energéō), which means 'to be active' or 'to work'",
+            "example_sentence": {
+                "ancient_greek": "Η ενέργεια είναι αναγκαία για τη λειτουργία των μηχανημάτων.",
+                "english_spelling_of_the_ancient_greek": "Hē energeia einai anagkaiē gia tē leitourgia ton mēkhanēmatōn.",
+                "translated_into_english": "Energy is necessary for the operation of machines."
+            }
+        }
+    },
+    {
+        "ancient_greek_word": "κινητήρας",
+        "metadata": {
+            "english_spelling": "kinētērás",
+            "english_translation": "engine",
+            "pronunciation": "/kɪnəˈtɪrəs/",
+            "part_of_speech": "noun",
+            "brief_definition": "a machine that converts energy into motion",
+            "etymology": "Derived from κινέω (kinéō), which means 'to move'",
+            "example_sentence": {
+                "ancient_greek": "Ο κινητήρας είναι απαραίτητος για την κινήση της μηχανής.",
+                "english_spelling_of_the_ancient_greek": "O kinētēras einai aparaitētos gia tēn kinēsē tēs mēkhanēs.",
+                "translated_into_english": "The engine is necessary for the motion of the machine."
+            }
+        }
+    },
+
+
+    {
+        "ancient_greek_word": "σταθμός",
+        "english_spelling": "stathmos",
+        "english_translation": "station, stand",
+        "pronunciation": "stah-th-moss",
+        "part_of_speech": "noun",
+        "definition": "A place where a machine or mechanism is stationed or fixed.",
+        "etymology": "From the ancient Greek word 'στατέω' (stateō) meaning 'to stand'",
+        "example": [
+            "Το σταθμό του μηχανικού ήταν στην εργαστηριακή είσοδο.",
+            "To stathmos tou mēchanikou ētan stēn ergasthriakē ēisodo.",
+            "The mechanic's station was at the workshop entrance."
+        ]
+    },
+    {
+        "ancient_greek_word": "κινητήρας",
+        "english_spelling": "kinētēras",
+        "english_translation": "engine, motor",
+        "pronunciation": "kee-neh-teh-rahs",
+        "part_of_speech": "noun",
+        "definition": "A machine that converts energy into work.",
+        "etymology": "From the ancient Greek word 'κινέω' (kineō) meaning 'to move'",
+        "example": [
+            "Ο κινητήρας του αυτοκινήτου δεν ήταν σε λειτουργία.",
+            "O kinētēras tou aftokinītou den ētan se leitourgia.",
+            "The car's engine was not in operation."
+        ]
+    },
+    {
+        "ancient_greek_word": "τροχιά",
+        "english_spelling": "trokhia",
+        "english_translation": "track, axle",
+        "pronunciation": "troh-kyah",
+        "part_of_speech": "noun",
+        "definition": "A circular bar or shaft that supports a wheel or rotates about an axis, allowing movement and machinery to operate smoothly.",
+        "etymology": "From the ancient Greek word 'τρέχω' (trekhō) meaning 'to run'",
+        "example": [
+            "Η τροχιά του ρεζερβουάρ ήταν παραλειπομένη.",
+            "H trokhia tou rezerbouar ētan paraleipomenē.",
+            "The axle of the wagon was broken."
+        ]
+    },
+    {
+        "ancient_greek_word": "στρογγύλη ροή",
+        "english_spelling": "stroggylē roē",
+        "english_translation": "circular flow",
+        "pronunciation": "stroh-gy-lee roh",
+        "part_of_speech": "noun",
+        "definition": "A flow that rotates continuously in a circular pattern, as in a hydraulic system.",
+        "etymology": "From the ancient Greek word 'στρογγύλος' (stroggylos) meaning 'circular' and 'ροή' (roē) meaning 'flow'",
+        "example": [
+            "Η στρογγύλη ροή του υδραυλικού συστήματος ήταν ελαττωματική.",
+            "H stroggylē roē tou hydravlikou systimatos ētan elattōmatikē.",
+            "The circular flow of the hydraulic system was inadequate."
+        ]
+    },
+    {
+        "ancient_greek_word": "κύλιση",
+        "english_spelling": "kulisē",
+        "english_translation": "rotation, rolling",
+        "pronunciation": "koo-lee-seh",
+        "part_of_speech": "noun",
+        "definition": "The act of rotating around an axis, or the movement of an object along a surface by turning over and over.",
+        "etymology": "From the ancient Greek word 'κύλλω' (kullō) meaning 'to roll'",
+        "example": [
+            "Η κύλιση του τροχού ήταν σταθερή.",
+            "H kulisē tou trokhou ētan statherē.",
+            "The rotation of the wheel was steady."
+        ]
+    },
+    {
+        "ancient_greek_word": "κινήσεις",
+        "english_spelling": "kinēseis",
+        "english_translation": "movements",
+        "pronunciation": "kee-neh-sis",
+        "part_of_speech": "noun",
+        "definition": "The act of moving or the process of being moved, especially in a specific manner or direction.",
+        "etymology": "From the ancient Greek word 'κινέω' (kineō) meaning 'to move'",
+        "example": [
+            "Οι κινήσεις του μηχανισμού ήταν επαναλαμβανόμενες.",
+            "Oi kinēseis tou mēchanismou ētan epanalamvanomenes.",
+            "The movements of the mechanism were repetitive."
+        ]
+    },
+    {
+        "ancient_greek_word": "αντικαταστάσεις",
+        "english_spelling": "antikatastaseis",
+        "english_translation": "counterbalances",
+        "pronunciation": "an-tee-ka-tahs-teh-sis",
+        "part_of_speech": "noun",
+        "definition": "A weight or force that acts in opposition to another weight or force, so as to maintain balance or stability.",
+        "etymology": "From the ancient Greek word 'αντί' (anti) meaning 'against' and 'καταστάσεις' (katastaseis) meaning 'placements'",
+        "example": [
+            "Τα αντικαταστάσεις στο μηχανισμό είναι απαραίτητα για την ισορροπία.",
+            "Ta antikatastaseis sto mēchanismo einai aparaītēta gia tin isorropía.",
+            "The counterbalances in the mechanism are necessary for balance."
+        ]
+    },
+    {
+        "ancient_greek_word": "γραφική αναπαράσταση",
+        "english_spelling": "graphikē anaparastāsē",
+        "english_translation": "graphic representation",
+        "pronunciation": "grah-fee-kee an-ah-pa-rah-stah-seh",
+        "part_of_speech": "noun",
+        "definition": "A visual representation of information or data, typically in the form of a diagram or graph, used to understand and analyze mecha nical systems.",
+        "etymology": "From the ancient Greek word 'γραφικός' (graphikos) meaning 'related to drawing or writing' and 'αναπαράσταση' (anaparastāsē) meaning 'representation'",
+        "example": [
+            "Η γραφική αναπαράσταση του μηχανισμού ήταν πολύ χρήσιμη για την επίλυση των προβλημάτων.",
+            "H graphikē anaparastāsē tou mēchanismou ētan polý chrīmē gia tin epilusē ton problēmatōn.",
+            "The graphic representation of the mechanism was very useful for solving problems."
+        ]
+    },
+    {
+        "ancient_greek_word": "επαναλαμβανόμενη κίνηση",
+        "english_spelling": "epanalamvanomenē kinēsē",
+        "english_translation": "repeating motion",
+        "pronunciation": "eh-pan-a-lam-va-no-meh-neh kee-neh-seh",
+        "part_of_speech": "noun",
+        "definition": "A motion that occurs repeatedly in the same pattern or sequence, as in a mechanical system.",
+        "etymology": "From the ancient Greek word 'επαναλαμβανόμενος' (epanalamvanomenos) meaning 'repeating' and 'κίνηση' (kinēsē) meaning 'motion'",
+        "example": [
+            "Η επαναλαμβανόμενη κίνηση του μηχανισμού είναι απαραίτητη για την λειτουργία του.",
+            "H epanalamvanomenē kinēsē tou mēchanismou einai aparaītēta gia tin leitourgía tou.",
+            "The repeating motion of the mechanism is necessary for its operation."
+        ]
+    },
+    {
+        "ancient_greek_word": "επαναστάτης",
+        "english_spelling": "epanastatēs",
+        "english_translation": "reformer",
+        "pronunciation": "eh-pan-a-sta-tes",
+        "part_of_speech": "noun",
+        "definition": "A person who advocates for change or improvement in a particular system, especially in the field of mechanics.",
+        "etymology": "From the ancient Greek word 'επαναστάνω' (epanastanō) meaning 'to restore' or 'to reform'",
+        "example": [
+            "Ο επαναστάτης της μηχανικής έκανε πολλές σημαντικές αλλαγές στην τεχνολογία.",
+            "O epanastatēs tēs mēchanikēs ekane pollés simantikés allagés stin technología.",
+            "The mechanic reformer made many significant changes in technology."
+        ]
+    },
+    {
+        "ancient_greek_word": "μηχανικός συστήματα",
+        "english_spelling": "mēchanikos systēmata",
+        "english_translation": "mechanical systems",
+        "pronunciation": "meh-khan-i-kos sis-teh-ma-ta",
+        "part_of_speech": "noun",
+        "definition": "The combination of components, mechanisms, and devices that work together to perform a specific task or function in the field of mechanics.",
+        "etymology": "From the ancient Greek word 'μηχανικός' (mēchanikos) meaning 'mechanic' and 'συστήματα' (systēmata) meaning 'systems'",
+        "example": [
+            "Τα μηχανικά συστήματα είναι κατασκευασμένα για να εκτελούν συγκεκριμένες εργασίες.",
+            "Ta mēchaniká systēmata einai kataskeuasména gia na ekteloun sygkekriménes ergasíes.",
+            "Mechanical systems are constructed to perform specific tasks."
+        ]
+    },
+    {
+        "ancient_greek_word": "ενεργειακός στόχος",
+        "english_spelling": "energeiakos stōchos",
+        "english_translation": "energetic goal",
+        "pronunciation": "en-er-gi-a-kos sto-chos",
+        "part_of_speech": "noun",
+        "definition": "The desired outcome or result related to energy efficiency and usage in the field of mechanics.",
+        "etymology": "From the ancient Greek word 'ενεργειακός' (energeiakos) meaning 'energetic' and 'στόχος' (stōchos) meaning 'goal'",
+        "example": [
+            "Ο ενεργειακός στόχος της μηχανικής ήταν να βελτιώσει την αποδοτικότητα των κινητηρών.",
+            "O energeiakos stōchos tēs mēchanikēs ētan na veltiōsei tin apodotikotita ton kinētorōn.",
+            "The energetic goal of mechanics was to improve the efficiency of engines."
+        ]
+    },
+    {
+        "ancient_greek_word": "τεχνική εκπαίδευση",
+        "english_spelling": "technikē epaideusē",
+        "english_translation": "technical education",
+        "pronunciation": "teh-ni-kē e-pe-di-u-seh",
+        "part_of_speech": "noun",
+        "definition": "Education or training in the practical and theoretical aspects of a particular field of mechanics.",
+        "etymology": "From the ancient Greek word 'τεχνική' (technikē) meaning 'technical' and 'εκπαίδευση' (epaideusē) meaning 'education'",
+        "example": [
+            "Η τεχνική εκπαίδευση ήταν απαραίτητη για τους μηχανικούς που θα δουλέψουν με κινητήρες.",
+            "I technikē epaideusē ētan apairētita gia tous mēchanikous pou tha doulepsoun me kinētēres.",
+            "Technical education was necessary for mechanics who would work with engines."
+        ]
+    },
+    {
+        "ancient_greek_word": "μηχανική εργασία",
+        "english_spelling": "mēchanikē ergasiā",
+        "english_translation": "mechanical work",
+        "pronunciation": "meh-kha-ni-kē er-ga-see-a",
+        "part_of_speech": "noun",
+        "definition": "The process or act of performing a task using mechanical means or tools in the field of mechanics.",
+        "etymology": "From the ancient Greek word 'μηχανική' (mēchanikē) meaning 'mechanical' and 'εργασία' (ergasiā) meaning 'work'",
+        "example": [
+            "Η μηχανική εργασία στην μηχανική ήταν πολύ σημαντική για τη βελτιωση των κινητηρών.",
+            "I mēchanikē ergasiā stin mēchanikē ētan polý simantikē gia ti veltiōsi ton kinētorōn.",
+            "Mechanical work in mechanics was very important for improving engines."
+        ]
+    },
+    {
+        "ancient_greek_word": "κινητήρας ενέργειας",
+        "english_spelling": "kinētēras energeias",
+        "english_translation": "energy engine",
+        "pronunciation": "ki-ne-te-ras e-ner-ge-ias",
+        "part_of_speech": "noun",
+        "definition": "A device that converts energy into useful work in the field of mechanics.",
+        "etymology": "From the ancient Greek word 'κινητήρας' (kinētēras) meaning 'engine' and 'ενέργεια' (energeia) meaning 'energy'",
+        "example": [
+            "Οι κινητήρες ενέργειας ήταν ο βασικός στοιχείος για την λειτουργία του μηχανικού συστήματος.",
+            "Oi kinētēres energeias ētan o vasikos stoicheiōs gia tin leitourgia tou mēchanikou systēmatos.",
+            "Energy engines were the key component for the operation of the mechanical system."
+        ]
+    },
+    {
+        "ancient_greek_word": "μηχανική εντοπισμός",
+        "english_spelling": "mēchanikē entopismos",
+        "english_translation": "mechanical location",
+        "pronunciation": "meh-kha-ni-kē en-to-pee-s-mōs",
+        "part_of_speech": "noun",
+        "definition": "The process of determining the physical position of a mechanical device or component in the field of mechanics.",
+        "etymology": "From the ancient Greek word 'μηχανική' (mēchanikē) meaning 'mechanical' and 'εντοπισμός' (entopismos) meaning 'location'",
+        "example": [
+            "Η μηχανική εντοπισμός ήταν προσωπικά σημαντικός για την επισκευή του μηχανικού συστήματος.",
+            "I mēchanikē entopismos ētan prosōpika simantikos gia tin epistevi tou mēchanikou systēmatos.",
+            "Mechanical location was personally important for the repair of the mechanical system."
+        ]
+    },
+    {
+        "ancient_greek_word": "μηχανικός συντομεύσεις",
+        "english_spelling": "mēchanikos syntomoiēseis",
+        "english_translation": "mechanical shortcuts",
+        "pronunciation": "meh-kha-ni-kōs sin-to-mo-i-ē-sis",
+        "part_of_speech": "noun",
+        "definition": "Efficient methods or techniques used to simplify a mechanical process or task in the field of mechanics.",
+        "etymology": "From the ancient Greek word 'μηχανικός' (mēchanikos) meaning 'mechanical' and 'συντομεύσεις' (syntomoiēseis) meaning 'shortcuts'",
+        "example": [
+            "Οι μηχανικοί συντομεύσεις είναι σημαντικές για τη βελτιωση της αποδοτικότητας στην μηχανική.",
+            "Oi mēchanikoi syntomoiēseis einai simantikes gia ti veltiōsi tis apodotikotitas stin mēchanikē.",
+            "Mechanical shortcuts are important for improving efficiency in mechanics."
+        ]
+    },
+    {
+        "ancient_greek_word": "μηχανική λειτουργία",
+        "english_spelling": "mēchanikē leitourgia",
+        "english_translation": "mechanical operation",
+        "pronunciation": "meh-kha-ni-kē le-i-toor-yia",
+        "part_of_speech": "noun",
+        "definition": "The performance or functioning of a mechanical device or system in the field of mechanics.",
+        "etymology": "From the ancient Greek word 'μηχανική' (mēchanikē) meaning 'mechanical' and 'λειτουργία' (leitourgia) meaning 'operation' or 'functioning'",
+        "example": [
+            "Η μηχανική λειτουργία του μηχανικού ήταν απαραίτητη για την επιτυχή αποστολή.",
+            "I mēchanikē leitourgia tou mēchanikou ētan apairetitē gia tin epistychē apostolē.",
+            "The mechanical operation of the mechanical device was necessary for the successful mission."
+        ]
+    },
+    {
+        "ancient_greek_word": "μηχανικός αναλυτής",
+        "english_spelling": "mēchanikos analutēs",
+        "english_translation": "mechanical analyst",
+        "pronunciation": "meh-kha-ni-kōs a-na-loo-tēs",
+        "part_of_speech": "noun",
+        "definition": "A person who analyzes and studies mechanical systems or devices in the field of mechanics.",
+        "etymology": "From the ancient Greek word 'μηχανικός' (mēchanikos) meaning 'mechanical' and 'αναλυτής' (analutēs) meaning 'analyst'",
+        "example": [
+            "Ο μηχανικός αναλυτής εξετάζει το μηχανικό σύστημα για να βρει τυχόν προβλήματα.",
+            "O mēchanikos analutēs eksetazei to mēchanikō systēma gia na vrei tichon problēmata.",
+            "The mechanical analyst examines the mechanical system to find any potential problems."
+        ]
+    },
+    {
+        "ancient_greek_word": "μηχανική επισκευή",
+        "english_spelling": "mēchanikē epistevi",
+        "english_translation": "mechanical repair",
+        "pronunciation": "meh-kha-ni-kē e-pi-stey-vee",
+        "part_of_speech": "noun",
+        "definition": "The act of fixing or restoring a mechanical device or system in the field of mechanics.",
+        "etymology": "From the ancient Greek word 'μηχανική' (mēchanikē) meaning 'mechanical' and 'επισκευή' (epistevi) meaning 'repair'",
+        "example": [
+            "Η μηχανική επισκευή του μηχανικού ήταν απαραίτητη για να συνεχίσει να λειτουργεί κανονικά.",
+            "I mēchanikē epistevi tou mēchanikou ētan apairetitē gia na synechisei na leitourgei kanōnika.",
+            "The mechanical repair of the mechanical device was necessary for it to continue to operate normally."
+        ]
+    },
+    {
+        "ancient_greek_word": "μηχανική συντήρηση",
+        "english_spelling": "mēchanikē syntirēsi",
+        "english_translation": "mechanical maintenance",
+        "pronunciation": "meh-kha-ni-kē sin-ti-rey-see",
+        "part_of_speech": "noun",
+        "definition": "The upkeep and care of a mechanical device or system in order to keep it functioning properly in the field of mechanics.",
+        "etymology": "From the ancient Greek word 'μηχανική' (mēchanikē) meaning 'mechanical' and 'συντήρηση' (syntirēsi) meaning 'maintenance'",
+        "example": [
+            "Η μηχανική συντήρηση του μηχανικού είναι απαραίτητη για να διατηρηθεί η απαραίτητη απόδοση.",
+            "I mēchanikē syntirēsi tou mēchanikou einai apairetitē gia na diatirēthei i apairetitē apodosi.",
+            "The mechanical maintenance of the mechanical device is necessary to maintain the required performance."
+        ]
+    },
+    {
+        "ancient_greek_word": "θερμοκρασία",
+        "english_spelling": "thermokrasia",
+        "english_translation": "temperature",
+        "pronunciation": "θɛr-moh-krah-SEE-uh",
+        "part_of_speech": "noun",
+        "definition": "The measure of the degree of hotness or coldness of a body or environment",
+        "etymology": "Derived from the ancient Greek words 'θερμός' meaning 'hot' and 'κρασία' meaning 'mixture'",
+        "example": [
+            "Η θερμοκρασία του κινητήρα έπρεπε να ελέγχεται συνεχώς.",
+            "The temperature of the engine had to be monitored continuously.",
+            "Η θερμοκρασία του κινητήρα πρέπει να σταθεροποιείται.",
+            "The temperature of the engine has to be stabilized."
+        ]
+    },
+    {
+        "ancient_greek_word": "επαγωγή",
+        "english_spelling": "epagōgē",
+        "english_translation": "transmission",
+        "pronunciation": "ɛ-puh-GOH-gee",
+        "part_of_speech": "noun",
+        "definition": "The process of transmitting or transferring energy, power or motion from one place to another",
+        "etymology": "Derived from the ancient Greek word 'ἐπαγωγή' meaning 'a leading out'",
+        "example": [
+            "Η επαγωγή της δύναμης στα κινητήρια γέγονε δια ενός ισχυρού και αξιόπιστου στήριγματος.",
+            "The transmission of power to the engines was achieved through a strong and reliable support.",
+            "Η επαγωγή της κινήσεως έγινε μέσω μιας επιδεξιοποιημένης μηχανικής συσκευής.",
+            "The transmission of motion was made through an advanced mechanical device."
+        ]
+    },
+    {
+        "ancient_greek_word": "ἐνέργεια",
+        "english_spelling": "energeia",
+        "english_translation": "energy",
+        "pronunciation": "en-ér-gʰi-a",
+        "part_of_speech": "noun",
+        "definition": "The ability to perform work, often used to describe the capacity of a physical system to do work.",
+        "etymology": "From the ancient Greek word 'energos' meaning 'active' or 'in action.",
+        "example": [
+            "Το κυκλοφοριακό μηχανικό σύστημα έχει μια μεγάλη ἐνέργεια.",
+            "To kykloforiakó michanikó sýstima échei mia megáli energeia.",
+            "The transportation system has a lot of energy."
+        ]
+    },
+    {
+        "ancient_greek_word": "τάση",
+        "english_spelling": "tási",
+        "english_translation": "voltage",
+        "pronunciation": "tá-si",
+        "part_of_speech": "noun",
+        "definition": "The electric potential difference between two points in a circuit, expressed in volts.",
+        "etymology": "Derived from the ancient Greek word 'tasis' meaning 'arrangement' or 'state of being.",
+        "example": [
+            "Η τάση στο ηλεκτρικό σύστημα είναι υψηλή.",
+            "I tási sto ilektriko sýstima eínai ipsilí.",
+            "The voltage in the electric system is high."
+        ]
+    },
+    {
+        "ancient_greek_word": "κυκλοφορία",
+        "english_spelling": "kykloforía",
+        "english_translation": "circulation",
+        "pronunciation": "kyk-lo-fo-ría",
+        "part_of_speech": "noun",
+        "definition": "The movement of a fluid or gas, especially through a circulatory system.",
+        "etymology": "Derived from the ancient Greek word 'kyklos' meaning 'circle' and 'pherein' meaning 'to carry.",
+        "example": [
+            "Η καλή κυκλοφορία της αίματος είναι απαραίτητη για την υγεία μας.",
+            "I kalí kykloforía tis aímatos eínai apairaitíti gia tin igía mas.",
+            "Good blood circulation is necessary for our health."
+        ]
+    },
+    {
+        "ancient_greek_word": "εναλλαγή",
+        "english_spelling": "enallagí",
+        "english_translation": "alternation",
+        "pronunciation": "en-a-la-gʰi",
+        "part_of_speech": "noun",
+        "definition": "The process of repeatedly switching back and forth between two or more things.",
+        "etymology": "Derived from the ancient Greek word 'en' meaning 'in' and 'allasso' meaning 'to change.",
+        "example": [
+            "Η εναλλαγή στην ροή του αέρα είναι απαραίτητη για την αντλία πετρελαίου.",
+            "I enallagí stin roí tou aéra eínai apairaitíti gia tin antlía petrelaí"
+        ]
+    },
+    {
+        "ancient_greek_word": "ελατήριον", 
+        "english_spelling": "elaterion", 
+        "english_translation": "lever", 
+        "pronunciation": "e-LA-te-rion", 
+        "part_of_speech": "noun", 
+        "definition": "a rigid bar that pivots around one point and that is used to move or lift heavy loads", 
+        "etymology": "From Ancient Greek ἐλατήρ (elatḗr), meaning 'spring, prop, support'", 
+        "example": [
+            "Το ελατήριον είναι μία από τις βασικές μηχανικές συσκευές.",
+            "To elaterion einai mia apo tis vasikes mehanikes syseves.",
+            "The lever is one of the basic mechanical devices."
+        ]
+    },
+    {
+        "ancient_greek_word": "τριβέλιον", 
+        "english_spelling": "tribelion", 
+        "english_translation": "screw", 
+        "pronunciation": "tree-BE-lee-on", 
+        "part_of_speech": "noun", 
+        "definition": "a threaded rod with a helical ridge used to fasten things together or to adjust their position", 
+        "etymology": "From Ancient Greek τριβέω (tribéō), meaning 'to twist, turn'", 
+        "example": [
+            "Το τριβέλιον είναι μία από τις βασικές μηχανικές συσκευές.",
+            "To tribelion einai mia apo tis vasikes mehanikes syseves.",
+            "The screw is one of the basic mechanical devices."
+        ]
+    },
+    {
+        "ancient_greek_word": "στρογγυλέματος", 
+        "english_spelling": "stroguglomatos", 
+        "english_translation": "pulley", 
+        "pronunciation": "stroe-goo-glo-MA-tos", 
+        "part_of_speech": "noun", 
+        "definition": "a wheel with a grooved rim used to change the direction of a rope or cable, or to change its mechanical advantage", 
+        "etymology": "From Ancient Greek στρογγυλός (stroguglós), meaning 'rounded, circular'", 
+        "example": [
+            "Το στρογγυλέματος είναι μία από τις βασικές μηχανικές συσκευές.",
+            "To stroggug..."
+        ]
+    },
+    {
+        "ancient_greek_word": "κινήσις",
+        "english_spelling": "kinēsis",
+        "english_translation": "motion",
+        "pronunciation": "KEE-nee-sis",
+        "part_of_speech": "noun",
+        "definition": "The act or process of moving or being moved, or change of position or place",
+        "etymology": "Derived from the verb 'kineō' meaning 'to move'",
+        "example": [
+            "Τη κινήσις του κινητήρα παράγει την ενέργεια",
+            "The motion of the engine generates energy",
+            "Η κίνηση του μηχανήματος δημιουργεί ενέργεια"
+        ]
+    },
+    {
+        "ancient_greek_word": "αντιστασιακή δύναμη",
+        "english_spelling": "antistasiakē dyname",
+        "english_translation": "counter force",
+        "pronunciation": "an-tee-stah-see-AH-kay DEE-nah-meh",
+        "part_of_speech": "noun",
+        "definition": "A force that opposes the main force acting on an object",
+        "etymology": "From 'antistatikos' meaning 'opposite' and 'dunamis' meaning 'force'",
+        "example": [
+            "Η αντιστασιακή δύναμη της σφαίρας κατά της γωνίας αλλάζει",
+            "The counter force of the ball against the angle changes",
+            "Η αντίθετη δύναμη της μπάλας εναντίον της γωνίας αλλάζει"
+        ]
+    },
+    {
+        "ancient_greek_word": "φορτίο",
+        "english_spelling": "phortio",
+        "english_translation": "load",
+        "pronunciation": "for-TEE-oh",
+        "part_of_speech": "noun",
+        "definition": "A weight or amount of goods that is carried, transported or moved",
+        "etymology": "Derived from 'phortos' meaning 'a carrying'",
+        "example": [
+            "Το φορτίο του φορτωτή ήταν πολύ βαρύ",
+            "The load of xxx"
+        ]
+    },
+    {
+        "ancient_greek_word": "ἔντασις",
+        "english_spelling": "entasis",
+        "english_translation": "tension",
+        "pronunciation": "én-ta-sis",
+        "part_of_speech": "noun",
+        "definition": "The state of being stretched or strained, typically to a high degree",
+        "etymology": "Derived from the verb 'ἐντένω' (entenō), meaning 'to stretch or tighten'",
+        "example": [
+            "Ἔντασις τῶν καλαμῶν διατηρεῖται αὐτῇ διὰ τὸ σταθμόν.",
+            "Entasis tōn kalamōn diatireitai autē dia to stathmon.",
+            "The tension of the ropes is maintained by the tensioner."
+        ]
+    },
+    {
+        "ancient_greek_word": "τροχιά",
+        "english_spelling": "trochia",
+        "english_translation": "rotation",
+        "pronunciation": "troh-kí-a",
+        "part_of_speech": "noun",
+        "definition": "The act or process of rotating or turning around an axis",
+        "etymology": "Derived from the verb 'τρέχω' (trekhō), meaning 'to run'",
+        "example": [
+            "Τροχιά τοῦ μηχανικοῦ διατηρεῖται διὰ τὴν σταθερή δύναμη.",
+            "Trochia tou mekhanikou diatireitai dia tēn statherē dunamē.",
+            "The rotation of the engine is maintained by the constant force."
+        ]
+    },
+    {
+        "ancient_greek_word": "ἀντικείμενο",
+        "english_spelling": "antikeimeno",
+        "english_translation": "object",
+        "pronunciation": "an-ti-keh-í-me-no",
+        "part_of_speech": "noun",
+        "definition": "A material or physical entity; anything that can be perceived or noticed",
+        "etymology": "Derived from the verb 'ἀντί' (anti) and the noun 'κεῖμαι' (keimai), meaning 'to be opposite'",
+        "example": [
+            "Τὸ ἀντικείμενο τῆς μηχανῆς εἶναι κινεῖσθαι.",
+            "To antikeimeno tēs mekhanēs einai kineisthai."
+        ]
+    },
+    {
+        "ancient_greek_word":  "τηλεκατεύθυνση",
+        "english_spelling":    "telekateuthynsi",
+        "english_translation": "remote control",
+        "pronunciation":       "[tɛːlɛkatɛuθɪnzi]",
+        "part_of_speech":      "noun",
+        "definition":          "A system or device used to control a machin",
+        "etymology":           "From τῆλε (teile), meaning 'far off' and κα",
+        "example": [
+            "Το τηλεκατεύθυνσι αυτοκινήτου σας σας επιτρέπει να ελέγχετε το",
+            "Your car's remote control allows you to control your car from",
+            "To telekateuthynsi sas sas epitrepei na elechete to aftokinito"
+        ]
+    },
+    {
+        "ancient_greek_word":  "παραλλαγή",
+        "english_spelling":    "parallagi",
+        "english_translation": "variation",
+        "pronunciation":       "[parəlɑːʝi]",
+        "part_of_speech":      "noun",
+        "definition":          "A change or difference in a quantity, patte",
+        "etymology":           "From παράλλασις (parallasis), meaning 'alte",
+        "example": [
+            "Η παραλλαγή στον ρεύμα του μηχανισμού πρέπει να μετρήσει για ν",
+            "The variation in the current of the machine needs to be measur",
+            "I parallagi ston revma tou michanismou prepei na metrise gia n"
+        ]
+    }
+]

@@ -1,0 +1,41 @@
+Hello! 
+
+I would like to practice my ancient greek
+vocabulary.  
+
+Please help me generate a vocabulary list
+centered around the topic: "geology"
+
+The vocabulary words should be specific, useful,
+varied, and directly related to the topic.
+
+I would like you to generate 40 yaml values of the
+following format:
+
+```
+<item-number>. <lowercase_ancient_greek_word> -- <english-spelling> -- <english-translation>
+<pronunciation>, <part-of-speech>, <gender>
+
+<definition>
+<etymology>
+
+<connotations>
+<collocations>
+
+<word-families>
+
+<synonyms-and-antonyms>
+
+<ancient-greek-example-sentence-with-english-spelling-and-translation>
+<the-english-spelling-of-the-ancient-greek-example-sentence>
+<the-translation-into-english-of-the-ancient-greek-example-sentence>
+```
+
+We don't need to add any annotations to the result.  
+
+I know where each field is and can parse it myself.  
+
+Newlines and spacing should be preserved, as should the relative order of fields.
+
+We have already seen the following words and should not repeat them:
+πυρ

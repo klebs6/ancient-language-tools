@@ -1,0 +1,1189 @@
+[
+    {
+        "ancient_greek_word": "λαϊκή",
+        "english_spelling": "laïkí",
+        "english_translation": "of or belonging to the people",
+        "pronunciation": "la-ee-kee",
+        "part_of_speech": "adjective",
+        "definition": "of or belonging to the people, common, non-elite",
+        "etymology": "Derived from the ancient Greek word 'laos' meaning 'people'",
+        "example": [
+            "Η λαϊκή ζωή είναι σταθερά στην ιστορία.",
+            "Laïkí zoí eínai stathérá stin historía.",
+            "The popular life is constant in history."
+        ]
+    },
+    {
+        "ancient_greek_word": "φυτεία",
+        "english_spelling": "futeía",
+        "english_translation": "botany",
+        "pronunciation": "foo-tee-ya",
+        "part_of_speech": "noun",
+        "definition": "the scientific study of plants and their structures, life cycle, and interactions with the environment",
+        "etymology": "Derived from the ancient Greek word 'phuton' meaning 'plant'",
+        "example": [
+            "Η φυτεία είναι μια σπουδαιολογική επιστήμη.",
+            "I futeía eínai mia spoudaiologikí epistími.",
+            "Botany is a scientific discipline."
+        ]
+    },
+    {
+        "ancient_greek_word": "είδωλο",
+        "english_spelling": "eídolo",
+        "english_translation": "idol",
+        "pronunciation": "ee-doh-lo",
+        "part_of_speech": "noun",
+        "definition": "a material object worshiped for its supposed spiritual or sacred powers, or as a representation of a deity",
+        "etymology": "Derived from the ancient Greek word 'eidos' meaning 'shape, form'",
+        "example": [
+            "Το είδωλο της θεάς ήταν στον ιερό.",
+            "To eídolo tis theás ítan ston ieró.",
+            "The goddess' idol was in the temple."
+        ]
+    },
+    {
+        "ancient_greek_word": "καλόγουστος",
+        "english_spelling": "kalógoustos",
+        "english_translation": "lush, verdant",
+        "pronunciation": "ka-lo-goos-tos"
+    },
+    {
+        "ancient_greek_word": "ζωοτροφή",
+        "english_spelling": "zootrofí",
+        "english_translation": "animal feed",
+        "pronunciation": "zo-oh-tro-fee",
+        "part_of_speech": "noun",
+        "definition": "food provided to animals, typically as a dietary supplement or to improve their health",
+        "etymology": "Derived from the ancient Greek words 'zoon' meaning 'animal' and 'trophe' meaning 'nourishment, food'",
+        "example": [
+            "Η ζωοτροφή είναι σημαντική για την υγεία των ζώων.",
+            "I zootrofí eínai simantikí gia tin ygeía ton zóon.",
+            "Animal feed is important for the health of the animals."
+        ]
+    },
+    {
+        "ancient_greek_word": "φρικαλεός",
+        "english_spelling": "frikaleós",
+        "english_translation": "frightening, terrifying",
+        "pronunciation": "free-ka-leh-os",
+        "part_of_speech": "adjective",
+        "definition": "causing fear, awe, or dread",
+        "etymology": "Derived from the ancient Greek word 'phriké' meaning 'fear, panic'",
+        "example": [
+            "Τα φρικαλεότερα ζώα είναι τα τέρατα της ζούγκλας.",
+            "Ta frikaleótera zóa eínai ta tératá tis zoúnglas.",
+            "The most frightening animals are the monsters of the jungle."
+        ]
+    },
+    {
+        "ancient_greek_word": "τροφή",
+        "english_spelling": "trofí",
+        "english_translation": "nourishment",
+        "pronunciation": "troh-fee",
+        "part_of_speech": "noun",
+        "definition": "food, sustenance, or support required for survival and growth",
+        "etymology": "Derived from the ancient Greek word 'trophe' meaning 'nourishment, food'",
+        "example": [
+            "Η τροφή στην ζούγκλα είναι πολύ δύσκολη.",
+            "I trofí stin zoúngla eínai polý dýskoli.",
+            "Nourishment in the jungle is very difficult."
+        ]
+    },
+    {
+        "ancient_greek_word": "εκτοπιστικός",
+        "english_spelling": "ektopistikós",
+        "english_translation": "exploratory, adventurous",
+        "pronunciation": "eh-kto-pis-tee-kos",
+        "part_of_speech": "adjective",
+        "definition": "related to exploration, seeking out new and unknown territories",
+        "etymology": "Derived from the ancient Greek word 'ektopízein' meaning 'to explore'",
+        "example": [
+            "Οι εκτοπιστικοί ταξιδευτές εξερευνούν τη ζούγκλα στην αναζήτηση νέων σπουδαίων ανακαλύψεων.",
+            "I ektopistikí taxideftés exerevnoun ti zoúngla stin anazítisí neón spoudaíon anakalýpseon.",
+            "Exploratory travelers explore the jungle in search of new and exciting discoveries."
+        ]
+    },
+    {
+        "ancient_greek_word": "παραδειγματικός",
+        "english_spelling": "paradeigmatikós",
+        "english_translation": "exemplary",
+        "pronunciation": "pa-ra-deh-ee-ma-tee-kos",
+        "part_of_speech": "adjective",
+        "definition": "serving as a model or example, outstanding, commend
+        "etymology": "Derived from the ancient Greek word 'paradeigmatos' 
+        "example": [
+            "Τα παραδειγματικά ζώα της ζούγκλας είναι τα λιγότερο φρικαλεό
+            "Ta paradeigmatiká zóa tis zoúnglas eínai ta ligótero frikaleó
+            "The exemplary animals of the jungle are the least frightening
+        ]
+    },
+    {
+        "ancient_greek_word": "κλίμα",
+        "english_spelling": "klíma",
+        "english_translation": "climate",
+        "pronunciation": "klee-ma",
+        "part_of_speech": "noun",
+        "definition": "the long-term patterns of temperature, precipitatio
+        "etymology": "Derived from the ancient Greek word 'klima' meaning 
+        "example": [
+            "Το κλίμα της ζ",
+        ]
+    },
+    {
+        "ancient_greek_word": "χάος",
+        "english_spelling": "chaos",
+        "english_translation": "chaos",
+        "pronunciation": "'kaos",
+        "part_of_speech": "noun",
+        "definition": "a state of utter confusion or disorder",
+        "etymology": "Derived from the ancient Greek word χάος (chaos), which meant 'vast chasm or emptiness'",
+        "example": [
+            "Το χάος στη ζούγκλα ήταν ανεπαίσθητο.",
+            "The chaos in the jungle was palpable.",
+            "Το χάος στη ζούγκλα ήταν αισθητό."
+        ]
+    },
+    {
+        "ancient_greek_word": "ζούγκλα",
+        "english_spelling": "zoo-gla",
+        "english_translation": "jungle",
+        "pronunciation": "zo'ugla",
+        "part_of_speech": "noun",
+        "definition": "a dense forest in a tropical region, typically uninhabited by humans",
+        "etymology": "Derived from the Sanskrit word जंगल (jangala), which meant 'arid, uncultivated land'",
+        "example": [
+            "Η ζούγκλα ήταν μια παραδειγματική εκτοπιστική περιοχή.",
+            "The jungle was a prototypical wilderness area.",
+            "Η ζούγκλα ήταν μια παράδειγματική περιοχή εκτοπισμού."
+        ]
+    },
+    {
+        "ancient_greek_word": "θηρευτής",
+        "english_spelling": "thireftis",
+        "english_translation": "hunter",
+        "pronunciation": "θi'reftis",
+        "part_of_speech": "noun",
+        "definition": "a person who hunts game or other wild animals for food or sport",
+        "etymology": "Derived from the ancient Greek verb θηρέω (thireo), which meant 'to hunt, to chase'",
+        "example": [
+            "Ο θηρευτής περάσαμε δύο ημέρες στη ζούγκλα.",
+            "The hunter spent two days in the jungle.",
+            "Ο θηρευτής περήφανε δ"
+        ]
+    },
+    {
+        "ancient_greek_word": "πειρατής",
+        "english_spelling": "piratis",
+        "english_translation": "pirate",
+        "pronunciation": "pi'ratis",
+        "part_of_speech": "noun",
+        "definition": "a person who attacks and robs ships at sea",
+        "etymology": "Derived from the ancient Greek verb πειράζω (peirazo), which meant 'to attack, to attempt'",
+        "example": [
+            "Ο πειρατής είχε στολήσει την πλοία του στη ζούγκλα.",
+            "The pirate had moored his ship in the jungle.",
+            "Ο πειρατής είχε στεγνώσει το πλοίο του στη ζούγκλα."
+        ]
+    },
+    {
+        "ancient_greek_word": "πλανήτης",
+        "english_spelling": "planetis",
+        "english_translation": "explorer",
+        "pronunciation": "pla'netis",
+        "part_of_speech": "noun",
+        "definition": "a person who travels to or examines new or little-k",
+        "etymology": "Derived from the ancient Greek verb πληροφορέω (pler",
+        "example": [
+            "Ο πλανήτης έκανε μια εκσκαφή στη ζούγκλα.",
+            "The explorer conducted an excavation in the jungle.",
+            "Ο πλανήτης έγινε μια ανασκαφή στη ζούγκλα."
+        ]
+    },
+    {
+        "ancient_greek_word": "παραδειγματικός",
+        "english_spelling": "paradeigmatikos",
+        "english_translation": "typical",
+        "pronunciation": "para'deigmatikos",
+        "part_of_speech": "adjective",
+        "definition": "serving as a characteristic example of a type",
+        "etymology": "Derived from the ancient Greek word παράδειγμα (para",
+        "example": [
+            "Η ζούγκλα ήταν παραδειγματική για τη ζωή στον παραδ"
+        ]
+    },
+    {
+        "ancient_greek_word": "δάσος",
+        "english_spelling": "dasos",
+        "english_translation": "forest",
+        "pronunciation": "dasos",
+        "part_of_speech": "noun",
+        "definition": "a dense growth of trees, shrubs, and undergrowth covering a large area",
+        "etymology": "Derived from the ancient Greek word 'dassein' meaning to divide or divide off.",
+        "example": [
+            "Το δάσος ήταν μαγευτικό στον περιηγητή.",
+            "To dasos itan mageftiko ston periegititi.",
+            "The forest was enchanting to the traveler."
+        ]
+    },
+    {
+        "ancient_greek_word": "βάρκα",
+        "english_spelling": "varka",
+        "english_translation": "boat",
+        "pronunciation": "varka",
+        "part_of_speech": "noun",
+        "definition": "a vehicle for conveying goods or passengers on water",
+        "etymology": "Derived from the ancient Greek word 'barus' meaning heavy.",
+        "example": [
+            "Οι πειρατές χρησιμοποιούσαν βάρκες για να πλέουν στον Παγκόσμιο Ωκεανό.",
+            "I pirates chrisimopoiousan varkes gia na pleoun ston Pagkósmio Okeano.",
+            "Pirates used boats to sail on the World Ocean."
+        ]
+    },
+    {
+        "ancient_greek_word": "στενάγμα",
+        "english_spelling": "stenagma",
+        "english_translation": "strait",
+        "pronunciation": "stenagma",
+        "part_of_speech": "noun",
+        "definition": "a narrow passage of water connecting two larger bodies of water",
+        "etymology": "Derived from the ancient Greek word 'steno' meaning narrow.",
+        "example": [
+            "Το στενάγμα ήταν σημαντικό για την επικοινωνία μεταξύ των πολιτιστικών κοινοτήτων.",
+            "To stenagma itan simantiko gia tin epikoinonia metaksi ton politistikon koinotiton.",
+            "The strait was important for communication between cultural communities."
+        ]
+    },
+    {
+        "ancient_greek_word": "τέντο",
+        "english_spelling": "tento",
+        "english_translation": "canopy",
+        "pronunciation": "tento",
+        "part_of_speech": "noun",
+        "definition": "an overhead covering, typically made of fabric, supported by poles and used as a shelter",
+        "etymology": "Derived from the ancient Greek word 'teinein' meaning to stretch.",
+        "example": [
+            "Το τέντο είναι σημαντικό για να προστατεύει από τον ήλιο τους περιηγητές του δάσους.",
+            "To tento einai simantiko gia na prostateyi apo ton ilio tous periegites tou dasous.",
+            "The canopy is important to protect the jungle travelers from the sun."
+        ]
+    },
+    {
+        "ancient_greek_word": "χέρσο",
+        "english_spelling": "cherso",
+        "english_translation": "coast",
+        "pronunciation": "cherso",
+        "part_of_speech": "noun",
+        "definition": "the land near the sea, especially along the edge of a continent or an island",
+        "etymology": "Derived from the ancient Greek word 'cheir' meaning hand.",
+        "example": [
+            "Το χέρσο ήταν ενα περισσότερο ήσυχο μέρος του δάσους.",
+            "To cherso itan ena perissotero ischio meros tou dasous.",
+            "The coast was a quieter part of the jungle."
+        ]
+    },
+    {
+        "ancient_greek_word": "σκηνή",
+        "english_spelling": "skine",
+        "english_translation": "tent",
+        "pronunciation": "skine",
+        "part_of_speech": "noun",
+        "definition": "a shelter made of fabric supported by poles, typically used for camping",
+        "etymology": "Derived from the ancient Greek word 'skene' meaning stage or tent.",
+        "example": [
+            "Οι πειρατές φτιάχνουν σκηνές για να παραμείνουν εναντίον της βροχής.",
+            "I pirates ftiachnoun skenes gia na paramenoun enantion tis vrochis.",
+            "Pirates make tents to stay protected from the rain."
+        ]
+    },
+    { 
+        "ancient_greek_word":  "δάσος", 
+        "english_spelling":    "dasos", 
+        "english_translation": "forest", 
+        "pronunciation":       "dah-sos", 
+        "part_of_speech":      "noun", 
+        "definition":          "A dense collection of trees and underbrush covering a large area of land", 
+        "etymology":           "The word comes from ancient Greek, possibly from the verb 'δαίδαλλαι' (daídallein), meaning 'to tear apart, to rend'", 
+        "example": [ 
+            "Το δάσος ήταν μαγευτικό και τα πειραστικά σκάνδαλα είχαν παρασαγγειλεί.", 
+            "To dasos ítan mageftiko kai ta pirate skándala eíchan parasangeilí.", 
+            "The forest was magical and the pirate's    traps had been revealed." 
+        ] 
+    }, 
+    { 
+        "ancient_greek_word": "γαλατόπαροινος", 
+        "english_spelling": "galatoparinos", 
+        "english_translation": "jaguar",     
+        "pronunciation": "gah-lah-toh-pah-ree-nos", 
+        "part_of_speech": "noun", 
+        "definition": "A large, carnivorous feline found primarily in the jungles of Central and South America", 
+        "etymology": "The word comes from ancient Greek 'Γαλάτης' (Galátis), meaning Gaul, and 'παρανίνης' (paranínēs), meaning panther, as the jaguar was thought to resemble a panther found in Gaul.", 
+        "example": [ 
+            "Ο γαλατόπαροινος είναι ένας από τους πιο δεινούς πειραστές του δάσους.", 
+            "O galatoparinos eínai énas apó tous pio deinous pirate tou dasous.", 
+            "The jaguar is one of the fiercest predators of the forest." 
+        ] 
+    }, 
+    { 
+        "ancient_greek_word": "εντοπιστικός", 
+        "english_spelling": "entopistikos", 
+        "english_translation": "explorer", 
+        "pronunciation":                 "ehn-toh-pis-tee-kos", 
+        "part_of_speech": "noun", 
+        "definition": "A person who travels to unknown or little-known regions in order to gain knowledge of them", 
+        "etymology": "The word comes from ancient Greek 'εντοπίζειν' (entopízein), meaning 'to find out'", 
+        "example": []
+    },
+    {
+        "ancient_greek_word": "τερας",
+        "english_spelling": "teras",
+        "english_translation": "monster",
+        "pronunciation": "ter-as",
+        "part_of_speech": "noun",
+        "definition": "a creature or being that is often of immense size or power and is typically considered to be dangerous or evil.",
+        "etymology": "The word 'teras' comes from the ancient Greek word for wonder or marvel.",
+        "example": [
+            "Τερας από την ζούγκλα τερεί.",
+            "Teras apo tin zounkla teri.",
+            "A monster from the jungle terrorizes."
+        ]
+    },
+    {
+        "ancient_greek_word": "εντοπιστικός",
+        "english_spelling": "entopistikos",
+        "english_translation": "exploratory",
+        "pronunciation": "en-to-pis-tee-kos",
+        "part_of_speech": "adjective",
+        "definition": "intended to discover new information or gain a greater understanding of a particular subject or place.",
+        "etymology": "The word 'entopistikos' comes from the ancient Greek word 'entopisis' meaning 'investigation' or 'exploration'",
+        "example": [
+            "Οι εντοπιστικοί περιηγητές ανακαλύπτουν την ζούγκλα.",
+            "Oi entopistikoi periitites anakalupoun tin zounkla.",
+            "The exploratory explorers discover the jungle."
+        ]
+    },
+    {
+        "ancient_greek_word": "σκιά",
+        "english_spelling": "skiá",
+        "english_translation": "shadow",
+        "pronunciation": "skee-ah",
+        "part_of_speech": "noun",
+        "definition": "an area of darkness, caused by light being blocked by a solid object, that is cast onto a surface.",
+        "etymology": "The word 'skiá' comes from the ancient Greek word for 'shade' or 'darkness'",
+        "example": [
+            "Η σκιά των δέντρων στην ζούγκλα είναι μαγική.",
+            "I skiá ton dentron stin zounkla einai magikí.",
+            "The shadow of the trees in the jungle is magical."
+        ]
+    },
+    {
+        "ancient_greek_word":  "μέγας",
+        "english_spelling":    "megas",
+        "english_translation": "big, large",
+        "pronunciation":       "ME-gas",
+        "part_of_speech":      "adjective",
+        "definition":          "having great size or magnitude, big in physical size, large in quantity or number",
+        "etymology":           "Unknown",
+        "example": [
+            "Το μέγας δέντρο στο βουνό.",
+            "To megas dentro sto vouno.",
+            "The big tree in the mountain."
+        ]
+    },
+    {
+        "ancient_greek_word":  "πειρασμός",
+        "english_spelling":    "peirasmos",
+        "english_translation": "trial, test, temptation",
+        "pronunciation":       "pi-RAS-mos",
+        "part_of_speech":      "noun",
+        "definition":          "a test of someone's abilities or integrity, a dangerous or difficult situation that tests a person's courage and endura nce, an enticement to do something wrong or unwise",
+        "etymology":           "Derived from 'peira' meaning 'to try, to test'",
+        "example": [
+            "Τους πειρασμούς και τις σκάψεις που ήταν υπόκεινται στη ζούγκλα.",
+            "Tous peirasmous ke tis skapseis pou itan ypokentaite sti zougla.",
+            "The trials and hardships they were subjected to in the jungle."
+        ]
+    },
+    {
+        "ancient_greek_word":  "ξηρός",
+        "english_spelling":    "xeros",
+        "english_translation": "dry",
+        "pronunciation":       "ZE-ros",
+        "part_of_speech":      "adjective",
+        "definition":          "lacking moisture, lacking interest or emotion",
+        "etymology":           "Unknown",
+        "example": [
+            "Ο ξηρός χώρος στο βόρειο τμήμα της ζούγκλας.",
+            "O xeros horos sto voreio tmima tis zouglas.",
+            "The dry area in the northern part of the jungle."
+        ]
+    },
+    {
+        "ancient_greek_word":  "φαραγγίτικος", 
+        "english_spelling":    "pharangitikos",
+        "english_translation": "tropical",
+        "pronunciation":       "'fa-ran-ghee-tee-kos'", 
+        "part_of_speech":      "adjective",
+        "definition":          "Of or relating to a tropical climate, vegetation or region.",
+        "etymology":           "Derived from the ancient greek word 'φαραγγίς' (pharangis) meaning 'jungle'",
+        "example": [
+            "Οι φαραγγίτικοι παραλίες έχουν έναν πανέμορφο θάματο.",
+            "Oi pharangitikoi paralies ehoune enan panemorfo thamato.",
+            "The tropical beaches have a beautiful sand."
+        ]
+    },
+    {
+        "ancient_greek_word":  "δασέα", 
+        "english_spelling":    "dasea",
+        "english_translation": "forest",
+        "pronunciation":       "'da-se-a'", 
+        "part_of_speech":      "noun",
+        "definition":          "A dense collection of trees, shrubs, and undergrowth, typically covering a large area of land.",
+        "etymology":           "Derived from the ancient greek word 'δάσος' (dasos) meaning 'a dense forest'",
+        "example": [
+            "Η δασέα ήταν πλούσια σε ζώα και φυτά.",
+            "I dasea itan plousia se zoa ke fyta.",
+            "The forest was rich in animals and plants."
+        ]
+    },
+    {
+        "ancient_greek_word":  "πείρατες", 
+        "english_spelling":    "peirates",
+        "english_translation": "pirates",
+        "pronunciation":       "'pe-i-ra-tes'", 
+        "part_of_speech":      "noun",
+        "definition":          "A person who attacks and robs ships at sea.",
+        "etymology":           "Derived from the ancient greek word 'πειράομαι' (peiraomai) meaning 'to attempt, to try'",
+        "example": [
+            "Οι πείρατες επιτίθενται στα πλοία και κλέβουν τα αγαθά τους.",
+            "Oi peirates epitithentai sta ploia ke"
+        ]
+    },
+    {
+        "ancient_greek_word": "παγκόσμιος",
+        "english_spelling": "pagkosmios",
+        "english_translation": "global, worldwide",
+        "pronunciation": "'paɡkósmios",
+        "part_of_speech": "adjective",
+        "definition": "relating to the entire world; affecting or encompassing the entire earth",
+        "etymology": "Derived from the Greek words 'πᾶν' (pan), meaning 'all' and 'κόσμος' (kosmos), meaning 'world' or 'universe'.",
+        "example": [
+            "ἐκ τῶν παγκοσμίων φυτειῶν, πολλά εἰσιν τῶν θεραπευτικῶν.",
+            "ek tōn pagkosmíōn phyteiōn, pollá eisin tōn therapeutikōn.",
+            "From the global plants, many are therapeutic."
+        ]
+    },
+    {
+        "ancient_greek_word": "ζωοτροφή",
+        "english_spelling": "zōotrofē",
+        "english_translation": "animal food",
+        "pronunciation": "zō-'ot-rə-fē",
+        "part_of_speech": "noun",
+        "definition": "food or sustenance specifically for animals",
+        "etymology": "Derived from the Greek words 'ζῷον' (zōion), meaning 'animal' and 'τροφή' (trophē), meaning 'nourishment' or 'food'.",
+        "example": [
+            "Τίνα ζωοτροφήν φαγόντες οἱ θηρεύοντες;",
+            "Tína zōotrofēn phagóntes hoi theureúontes;",
+            "What kind of animal food do the hunters eat?"
+        ]
+    },
+    {
+        "ancient_greek_word": "ζούγκλα",
+        "english_spelling": "zougla",
+        "english_translation": "jungle",
+        "pronunciation": "zu-'ɡla",
+        "part_of_speech": "noun",
+        "definition": "a dense forest in a tropical region, typically uninhabited by humans",
+        "etymology": "The origin of this word is uncertain, but it is thought to possibly come from a West African language.",
+        "example": [
+            "Τί ζούγκλας εἰσιν ταῖς λαϊκαῖς περιοχαῖς;",
+            "Tí zouglás eisin tais laïkais periokhais;",
+            "What jungles are in the rural areas?"
+        ]
+    },
+    {
+        "ancient_greek_word": "δάσος",
+        "english_spelling": "dasos",
+        "english_translation": "forest",
+        "pronunciation": "ˈda.sɔs",
+        "part_of_speech": "noun",
+        "definition": "A large area covered with trees and undergrowth, typically in a tropical region",
+        "etymology": "Derived from the Ancient Greek word δάσος meaning 'thicket' or 'forest'",
+        "example": [
+            "Το δάσος ήταν πλούσιο σε βιότοπο και ζωή.",
+            "To dasos itan plousio se viotopo ke zoí.",
+            "The forest was rich in habitat and life."
+        ]
+    },
+    {
+        "ancient_greek_word": "σκηνική",
+        "english_spelling": "skēnikē",
+        "english_translation": "tent",
+        "pronunciation": "skeˈniki",
+        "part_of_speech": "noun",
+        "definition": "A portable shelter made of cloth, supported by one or more poles and stretched tight by cords or loops attached to pegs driven into the ground",
+        "etymology": "Derived from the Ancient Greek word σκηνή meaning 'tent' or 'hut'",
+        "example": [
+            "Οι πειρατές φτιάχνουν σκηνικές για να προστατεύσουν από τον βροχό.",
+            "I piratés ftiáchnoun skēnikés gia na prostatévoun apó ton vrochó.",
+            "Pirates build tents to protect from the rain."
+        ]
+    },
+    {
+        "ancient_greek_word": "στέγη",
+        "english_spelling": "stégi",
+        "english_translation": "roof",
+        "pronunciation": "ˈstedi",
+        "part_of_speech": "noun",
+        "definition": "A structure that provides cover on top of a building or shelter",
+        "etymology": "Derived from the Ancient Greek word στέγη meaning 'roof'",
+        "example": [
+            "Η στέγη του σπιτιού τους ήταν σταθερή και αξιόπιστη.",
+            "I stégi tou spitiu tus itan statherí ke aksiópista.",
+            "Their house roof was stable and reliable."
+        ]
+    },
+    {
+        "ancient_greek_word": "τροχιά",
+        "english_spelling": "trochia",
+        "english_translation": "path, track",
+        "pronunciation": "ˈtroʊkɪə",
+        "part_of_speech": "noun",
+        "definition": "A path or track, especially one through a jungle or forest.",
+        "etymology": "Derived from the ancient Greek word 'τρέχειν' (trechein), meaning 'to run' or 'to move quickly'.",
+        "example": [
+            "Το τροχιά του λάσκου πήγε από την κοιλάδα μέχρι την πεδιάδα.",
+            "To trochia tou laskou pge apo tin koilada mechi tin pediada.",
+            "The path of the leopard went from the valley to the plain."
+        ]
+    },
+    {
+        "ancient_greek_word": "στάση",
+        "english_spelling": "stasi",
+        "english_translation": "stance",
+        "pronunciation": "ˈstæsi",
+        "part_of_speech": "noun",
+        "definition": "A stance or position, especially one taken in preparation for movement or action.",
+        "etymology": "Derived from the ancient Greek word 'στάζειν' (stazein), meaning 'to stand'.",
+        "example": [
+            "Η στάση του λεόπτρου ήταν έτοιμη για την στροφή.",
+            "I stasi tou leoptrou itan etimi gia tin strofi.",
+            "The stance of the leopard was ready for the turn."
+        ]
+    },
+    {
+        "ancient_greek_word": "κάτοικος",
+        "english_spelling": "katoikos",
+        "english_translation": "inhabitant, resident",
+        "pronunciation": "kəˈtɔɪkəs",
+        "part_of_speech": "noun",
+        "definition": "An inhabitant or resident, especially of a jungle o",
+        "etymology": "Derived from the ancient Greek word 'κατοικέω' (kato",
+        "example": [
+            "Οι κάτοικοι της ζούγκλας ήταν πειρατές.",
+            "Oi katoikoi tis zougklas itan peirates.",
+            "The inhabitants of the jungle were pirates."
+        ]
+    },
+    {
+        "ancient_greek_word": "ελαφρός",
+        "english_spelling": "elaphros",
+        "english_translation": "light, graceful",
+        "pronunciation": "'ɛlafros",
+        "part_of_speech": "adjective",
+        "definition": "used to describe something that is light in weight or appearance",
+        "etymology": "Derived from the ancient Greek word 'ελαφρός' (elaphros) meaning 'light, graceful'",
+        "example": [
+            "Ο ελαφρός στρατιώτης ήταν έτοιμος για την περιπέτεια στο δάσος.",
+            "The light soldier was ready for the adventure in the jungle.",
+            "The light soldier was ready for the adventure in the jungle."
+        ]
+    },
+    {
+        "ancient_greek_word": "πλησίον",
+        "english_spelling": "plision",
+        "english_translation": "near, close",
+        "pronunciation": "plee'son",
+        "part_of_speech": "adverb",
+        "definition": "used to describe a place or position that is close or near",
+        "etymology": "Derived from the ancient Greek word 'πλησίον' (plision) meaning 'near, close'",
+        "example": [
+            "Το πλησίον καταφύγιο βρίσκεται εκεί που ξεκινάει η ζούγκλα.",
+            "The close refuge is located where the jungle begins.",
+            "The close refuge is located where the jungle begins."
+        ]
+    },
+    {
+        "ancient_greek_word": "ερημικός",
+        "english_spelling": "erimikos",
+        "english_translation": "desolate, deserted",
+        "pronunciation": "e'rimikos",
+        "part_of_speech": "adjective",
+        "definition": "used to describe a place that is deserted or lacking in people or vegetation",
+        "etymology": "Derived from the ancient Greek word 'ερημικός' (erimikos) meaning 'desolate, deserted'",
+        "example": [
+            "Το ερημικό δάσος ήταν γεμάτο από πειρατές και τεράτα.",
+            "The desolate jungle was full of pirates and monsters.",
+            "The desolate jungle was full of pirates and monsters."
+        ]
+    },
+    {
+        "ancient_greek_word": "μαϊμού",
+        "english_spelling": "maiumu",
+        "english_translation": "monkey",
+        "pronunciation": "mī-moo",
+        "part_of_speech": "noun",
+        "definition": "A primate with long arms and a tail, often found in jungle habitats.",
+        "etymology": "From ancient Greek μαῖα (maia), meaning 'mother'. This was used to describe the monkey's playful, child-like behavior.",
+        "example": [
+            "Τα μαϊμού παίζουν στη ζούγκλα.",
+            "Ta maiumu paizoun sti zóungla.",
+            "The monkeys are playing in the jungle."
+        ]
+    },
+    {
+        "ancient_greek_word": "παραδειγματικός",
+        "english_spelling": "paradeigmatikos",
+        "english_translation": "representative",
+        "pronunciation": "pah-rah-dī-gah-mah-tee-koss",
+        "part_of_speech": "adjective",
+        "definition": "Serving as a good or typical example of a particular type of thing.",
+        "etymology": "From ancient Greek παράδειγμα (paradeigma), meaning 'example', and -ικός (-ikos), meaning 'related to, connected with'. ",
+        "example": [
+            "Το μαϊμού είναι παραδειγματικό ζώο της ζούγκλας.",
+            "To maiumu einai paradeigmatikó zóo tis zóunglas.",
+            "The monkey is a representative animal of the jungle."
+        ]
+    },
+    {
+        "ancient_greek_word": "δασική",
+        "english_spelling": "dasikí",
+        "english_translation": "jungle",
+        "pronunciation": "dah-seek-ee",
+        "part_of_speech": "adjective",
+        "definition": "Of or relating to dense forests with abundant vegetation, found in tropical regions.",
+        "etymology": "From ancient Greek δάσος (dasos), meaning 'forest'. This adjective form was created to describe the specific characteristics of the tropical jungle forests.",
+        "example": [
+            "Η ζούγκλα είναι ένα δασικό κλίμα.",
+            "I zóungla einai éna dasikó klíma.",
+            "The jungle is a jungle climate."
+        ]
+    },
+    {
+        "ancient_greek_word":  "ανακυκλωτικός",
+        "english_spelling":    "anakyklotos",
+        "english_translation": "recursive",
+        "pronunciation":       "an-ah-kee-kloh-tos",
+        "part_of_speech":      "adjective",
+        "definition":          "having the property of repeating, or looping back, on itself",
+        "etymology":           "from the ancient Greek word 'anakyklōtos' which means 'circular'",
+        "example": [
+            "Οι ανακυκλωτικές συνθήκες στη ζούγκλα παρέχουν τροφή για πολλά ζώα.",
+            "Oi anakyklotikes synthikes sti zougla parechoun trophi gia polla zoa.",
+            "The recursive conditions in the jungle provide food for many animals."
+        ]
+    },
+    {
+        "ancient_greek_word":  "ανεκτικός",
+        "english_spelling":    "anektikos",
+        "english_translation": "diverse",
+        "pronunciation":       "ah-nek-tee-kos",
+        "part_of_speech":      "adjective",
+        "definition":          "having many different forms, elements, or styles",
+        "etymology":           "from the ancient Greek word 'anektikos' which means 'various'",
+        "example": [
+            "Η ζούγκλα έχει μια ανεκτική ποικιλία ζώων και φυτών.",
+            "I zougla echei mia anektiki poikilia zoon kai fyton.",
+            "The jungle has a diverse variety of animals and plants."
+        ]
+    },
+    {
+        "ancient_greek_word":  "απαλός",
+        "english_spelling":    "apalos",
+        "english_translation": "gentle",
+        "pronunciation":       "ah-pah-los",
+        "part_of_speech":      "adjective",
+        "definition":          "having a soft, smooth, or soothing quality or character",
+        "etymology":           "from the ancient Greek word 'apalos' which means 'smooth, delicate'",
+        "example": [
+            "Η στέγη στο χέρσο της ζούγκλας ήταν απαλή και ήσυχη.",
+            "I stegi stochersos tis zouglas itan apali kai isyhi.",
+            "The shelter on the jungle's edge was"
+        ]
+    },
+    {
+        "ancient_greek_word": "στασαλία",
+        "english_spelling": "stasalia",
+        "english_translation": "tangled mass",
+        "pronunciation": "sta-SA-lee-a",
+        "part_of_speech": "noun",
+        "definition": "A dense, tangled mass of trees, shrubs, and undergrowth in a tropical rainforest.",
+        "etymology": "Derived from the Ancient Greek word 'στασάω' meaning 'to stand in confusion'",
+        "example": [
+            "Η στασαλία ήταν πολύ καλύτερη παραδειγματική του ζούγκλα",
+            "Hē stasalia ētan polý kalýteri paradigmatikì tou zoúngla",
+            "The tangled mass was a very good example of the jungle."
+        ]
+    },
+    {
+        "ancient_greek_word": "στρατηγός",
+        "english_spelling": "stratego̱s",
+        "english_translation": "explorer",
+        "pronunciation": "stra-TE-gos",
+        "part_of_speech": "noun",
+        "definition": "A person who leads an expedition into a new and unfamiliar area, especially into a jungle.",
+        "etymology": "Derived from the Ancient Greek word 'στρατηγέω' meaning 'to be a general'",
+        "example": [
+            "Ο στρατηγός ήταν ένας εμπειρογνωμόνες της ζούγκλας",
+            "O stratigo̱s ētan énas empeirognómones tis zoúnglas",
+            "The explorer was an expert of the jungle."
+        ]
+    },
+    {
+        "ancient_greek_word": "ταρακτήρ",
+        "english_spelling": "taraktír",
+        "english_translation": "predator",
+        "pronunciation": "ta-RAK-tir",
+        "part_of_speech": "noun",
+        "definition": "An animal that lives by hunting other animals for food, especially in the jungle.",
+        "etymology": "Derived from the Ancient Greek word 'ταράσσω' meaning 'to disorder'",
+        "example": [
+            "Τα πειρατές πρέπει να είναι προσεκτικοί για ταρακτήρες της ζούγκλας",
+            "Ta peiratés prépei na eínai prosektikoí gia taraktíres tis zoúnglas",
+            "The explorers need to be careful for the predators of"
+        ]
+    },
+    {
+        "ancient_greek_word": "επισκοπή",
+        "english_spelling": "episkepsis",
+        "english_translation": "inspection",
+        "pronunciation": "eh-pee-SKEP-sis",
+        "part_of_speech": "noun",
+        "definition": "The act of examining or inspecting something.",
+        "etymology": "Derived from the Ancient Greek verb 'επισκέπτομαι' (episképtomai), meaning 'to inspect'.",
+        "example": [
+            "Η επισκοπή της ζούγκλας πρέπει να γίνεται συχνά.",
+            "H episkepsis tis zounglas prepei na ginei sychna.",
+            "The inspection of the jungle should be done frequently."
+        ]
+    },
+    {
+        "ancient_greek_word": "απαρέμφατος",
+        "english_spelling": "aparemfatos",
+        "english_translation": "impenetrable",
+        "pronunciation": "ah-pah-REM-fah-tos",
+        "part_of_speech": "adjective",
+        "definition": "Not capable of being penetrated or passed through.",
+        "etymology": "Derived from the Ancient Greek verb 'απαρέμφατος' (aparémfatos), meaning 'impenetrable'.",
+        "example": [
+            "Η ζούγκλα είναι απαρέμφατος.",
+            "I zoungla einai aparemfatos.",
+            "The jungle is impenetrable."
+        ]
+    },
+    {
+        "ancient_greek_word": "αραχνιστής",
+        "english_spelling": "arachnistis",
+        "english_translation": "spider hunter",
+        "pronunciation": "ah-RAKH-niss-tis",
+        "part_of_speech": "noun",
+        "definition": "A person who hunts or catches spiders.",
+        "etymology": "Derived from the Ancient Greek word 'αράχνη' (arákhne), meaning 'spider' and the suffix '-ιστής' (-istis), meaning 'one who does' .",
+        "example": [
+            "Ο αραχνιστής έλαβε πολλούς αράχνες από τη ζούγκλα.",
+            "O arachnistis élave pollous arákhnes apo ti zoungla.",
+            "The spider hunter caught many spiders from the jungle."
+        ]
+    },
+    {
+        "ancient_greek_word": "στεναγμένος",
+        "english_spelling": "stenagmenos",
+        "english_translation": "squeezed, compressed",
+        "pronunciation": "sten-ahg-ME-nos",
+        "part_of_speech": "adjective",
+        "definition": "describing something that is squeezed or compressed in a narrow space or confined area",
+        "etymology": "Derived from the ancient Greek verb στένω (stenō) meaning 'to squeeze, compress'",
+        "example": [
+            "Τα στεναγμένα σκαλοπάτια ήταν επικίνδυνα.",
+            "Ta stenagmena skalopatia itan epikindyna.",
+            "The squeezed stairs were dangerous."
+        ]
+    },
+    {
+        "ancient_greek_word": "ταυτοτροπία",
+        "english_spelling": "tautotropia",
+        "english_translation": "disguise, camouflage",
+        "pronunciation": "tow-tow-TROH-pee-ah",
+        "part_of_speech": "noun",
+        "definition": "the act of disguising or hiding one's true identity or appearance in order to blend in or avoid detection",
+        "etymology": "Derived from the ancient Greek words ταυτός (tautos) meaning 'the same' and τρέπω (trepō) meaning 'to turn'",
+        "example": [
+            "Η ταυτοτροπία του ζώου ήταν ιδιαίτερα σημαντική για την προστασία του.",
+            "I tautotropia tou zōou itan idiaitera simantika gia tin prostasia tou.",
+            "The animal's disguise was particularly important for its protection."
+        ]
+    },
+    {
+        "ancient_greek_word": "φρικαλεός",
+        "english_spelling": "frikaleos",
+        "english_translation": "frightening, scary",
+        "pronunciation": "free-KAH-leh-os",
+        "part_of_speech": "adjective",
+        "definition": "describing something that causes fear or apprehension",
+        "etymology": "Derived from the ancient Greek verb φρίκημι (phrikēmi) meaning 'to frighten'",
+        "example": [
+            "Τα φρικαλεός τέρατα της ζούγκλας ήταν ιδιαίτερα αποκαλυπτικά.",
+            "Ta frikaleos terata tis zōuglas itan idiaitera ap"
+        ]
+    },
+    {
+        "ancient_greek_word": "επιστατής",
+        "english_spelling": "epistatēs",
+        "english_translation": "overseer, superintendent",
+        "pronunciation": "ʔe.pis.ˈtɛ.tɛs",
+        "part_of_speech": "noun",
+        "definition": "A person who oversees or is responsible for a particular task or area of work",
+        "etymology": "Derived from the Greek verb 'επίστασθαι' (epistasthai) meaning 'to stand over, to inspect, to oversee'",
+        "example": [
+            "ο επιστατής του δάσους παρακολούθησε την στέγη των ζώων.",
+            "ho epistatēs tou dasous parakolouthēse tin stégē ton zōōn.",
+            "The superintendent of the jungle monitored the shelter of the animals."
+        ]
+    },
+    {
+        "ancient_greek_word": "στενάγμα",
+        "english_spelling": "stenagma",
+        "english_translation": "path, trail",
+        "pronunciation": "sˈte.naɡ.ma",
+        "part_of_speech": "noun",
+        "definition": "A narrow and winding way or track, especially through a dense forest or jungle",
+        "etymology": "Derived from the Greek verb 'στενάζω' (stenazō) meaning 'to narrow'",
+        "example": [
+            "οι πειρατές πήγαν κατά το στενάγμα στην ζούγκλα.",
+            "oi peiratēs pēgan katá to stenagma stin zoúngla.",
+            "The pirates went through the path to the jungle."
+        ]
+    },
+    {
+        "ancient_greek_word": "σπασμός",
+        "english_spelling": "spasmos",
+        "english_translation": "rupture, break",
+        "pronunciation": "sˈpæz.mɔs",
+        "part_of_speech": "noun",
+        "definition": "An act or instance of breaking or tearing apart, or the state of being broken or torn apart",
+        "etymology": "Derived from the Greek verb 'σπάω' (spao) meaning 'to break'",
+        "example": [
+            "ένας σπασμός στην ρίχτη του δάσους σταμάτησε την περίπατο των θηρευτών.",
+            "enas spasmos stin ríchtē tou"
+        ]
+    },
+    {
+        "ancient_greek_word": "μέλας",
+        "english_spelling": "melas",
+        "english_translation": "black",
+        "pronunciation": "mélas",
+        "part_of_speech": "adjective",
+        "definition": "dark, dense, or soiled; black in color",
+        "etymology": "From Proto-Indo-European *melh₂-",
+        "example": [
+            "Τα μέλα μέλια είναι πιο γλυκά από τα λευκά.",
+            "Ta mela melia einai pio glyka apo ta leuka.",
+            "Black honey is sweeter than white honey."
+        ]
+    },
+    {
+        "ancient_greek_word": "παντρεμένος",
+        "english_spelling": "pantremenos",
+        "english_translation": "tamed",
+        "pronunciation": "pan-tré-men-os",
+        "part_of_speech": "verb",
+        "definition": "to domesticate, train, or make fit for a human purpose",
+        "etymology": "From the root παθ- (path-)",
+        "example": [
+            "Ο θηρευτής παντρεύτηκε τον τέρας για να στηριξει την σκηνή του.",
+            "O theveretes pantreute ton teras gia na stiriksei tin skini tou.",
+            "The hunter tamed the monster to support his tent."
+        ]
+    },
+    {
+        "ancient_greek_word": "παραδειγματικός",
+        "english_spelling": "paradeigmatikos",
+        "english_translation": "exemplary",
+        "pronunciation": "par-a-de-i-ga-ti-kos",
+        "part_of_speech": "adjective",
+        "definition": "serving as a model or example; admirable",
+        "etymology": "From παράδειγμα (paradeigma, example) and -ικός (-ikos, adjectival suffix)",
+        "example": [
+            "Οι κατοίκοι της ζούγκλας ήταν παραδειγματικοί για την στάση τους στην πειρασμό.",
+            "I katoikoi tis zounglas itan paradeigmatikoi gia tin stasi tous stin perasmos.",
+            "The residents of the jungle were exemplary for their stance in the challenge."
+        ]
+    },
+    {
+        "ancient_greek_word": "ταλαντώδης",
+        "english_spelling": "talantodēs",
+        "english_translation": "luxuriant, abundant, rich",
+        "pronunciation": "ta-LAN-to-dēs",
+        "part_of_speech": "adjective",
+        "definition": "having a profuse and luxurious growth, abundant, rich",
+        "etymology": "Derived from the Ancient Greek word 'τάλαντον' (talanton) meaning 'balance, scale, a weight'",
+        "example": [
+            "το ταλαντώδες δάσος είναι πλούσιο σε φυτά και ζώα",
+            "to talantodēs dasos einai ploúsio se fyta kai zōa",
+            "The luxuriant jungle is rich in plants and animals"
+        ]
+    },
+    {
+        "ancient_greek_word": "πείρατος",
+        "english_spelling": "peiratos",
+        "english_translation": "pirate",
+        "pronunciation": "pei-RA-tos",
+        "part_of_speech": "noun",
+        "definition": "a person who robs or commits illegal acts at sea",
+        "etymology": "Derived from the Ancient Greek word 'πειρατεία' (peirateia) meaning 'piracy, robbery on the seas'",
+        "example": [
+            "οι πείρατες εκτοπίζουν τα πλοία στα εξωτικά κυκλαδικά νησιά",
+            "oi peirates ektopízoun ta ploía sta exotika kykladika nisia",
+            "Pirates intercept ships in the exotic Cycladic islands"
+        ]
+    },
+    {
+        "ancient_greek_word": "πειρασμός",
+        "english_spelling": "peirasmos",
+        "english_translation": "test, trial, temptation",
+        "pronunciation": "pei-RAS-mos",
+        "part_of_speech": "noun",
+        "definition": "an act of putting to proof, trial, or the like; experiment, an enticement to do wrong",
+        "etymology": "Derived from the Ancient Greek verb 'πειράζω' (peirazō) meaning 'to try, test'",
+        "example": [
+            "ο θηρευτής χρησιμοποιεί την πειρασμή για να ανακαλύψει τη δύναμη του θύραγα"
+        ]
+    },
+    {
+        "ancient_greek_word": "καταποντίστρα",
+        "english_spelling": "kata-pontistra",
+        "english_translation": "river rapids",
+        "pronunciation": "ka-tə-pōn-tis-tra",
+        "part_of_speech": "noun",
+        "definition": "A river with fast-moving currents and waterfalls",
+        "etymology": "Derived from the Greek words 'kata' meaning 'down' and 'pontos' meaning 'sea'.",
+        "example": [
+            "Η καταποντίστρα ήταν στενή και ανεπανάστατη.",
+            "Hē katapontistra ētan stenē kai anepanastatē.",
+            "The river rapids were narrow and untamed."
+        ]
+    },
+    {
+        "ancient_greek_word": "φρεναρία",
+        "english_spelling": "phrenaria",
+        "english_translation": "jungle vegetation",
+        "pronunciation": "frɛ-nə-rē-ə",
+        "part_of_speech": "noun",
+        "definition": "The lush and dense growth of plants found in a jungle",
+        "etymology": "Derived from the Greek word 'phren' meaning 'mind' or 'diaphragm', possibly referencing the dense growth of vegetation.",
+        "example": [
+            "Η φρεναρία ήταν πολύ πικρή και αδύνατη για την περίδραση.",
+            "Hē phrenaria ētan poly pikrē kai adunatēk gia tēn peridrasi.",
+            "The jungle vegetation was very thick and impenetrable to navigate through."
+        ]
+    },
+    {
+        "ancient_greek_word": "τροπικός",
+        "english_spelling": "tropikos",
+        "english_translation": "tropical",
+        "pronunciation": "trō-pē-kōs"
+    },
+    {
+        "ancient_greek_word": "καταποντικός",
+        "english_spelling": "katapontikos",
+        "english_translation": "flood-prone",
+        "pronunciation": "'kat-a-pon-tee-kos",
+        "part_of_speech": "adjective",
+        "definition": "Tending to be susceptible to or characterized by floods.",
+        "etymology": "Derived from the ancient Greek word κατάποντας (katapontas) meaning 'to flow downwards'.",
+        "example": [
+            "Η ζούγκλα είναι ένα καταποντικό ενδιάμεσο ενδιαίτηρο.",
+            "Hē zounkla einai ena katapontiko endiameno endiatero.",
+            "The jungle is a flood-prone intermediate environment."
+        ]
+    },
+    {
+        "ancient_greek_word": "θηρευτικός",
+        "english_spelling": "thēreutikos",
+        "english_translation": "hunting",
+        "pronunciation": "thi-ree'-oo-tee-kos",
+        "part_of_speech": "adjective",
+        "definition": "Of or relating to hunting, or the pursuit of game or wild animals for sport or food.",
+        "etymology": "Derived from the ancient Greek word θηρεύω (thēreuō) meaning 'to hunt, pursue'.",
+        "example": [
+            "Η ζούγκλα είναι ένα θηρευτικό περιβάλλον.",
+            "Hē zounkla einai ena thēreutiko periballon.",
+            "The jungle is a hunting environment."
+        ]
+    },
+    {
+        "ancient_greek_word": "κατοικητικός",
+        "english_spelling": "katikētikos",
+        "english_translation": "habitational",
+        "pronunciation": "ka-tee-kee'-tee-kos",
+        "part_of_speech": "adjective",
+        "definition": "Relating to or providing a place of habitation, dwelling or residence.",
+        "etymology": "Derived from the ancient Greek word κατοικία (katoikia) meaning 'dwelling place, habitation, residence'.",
+        "example": [
+            "Η ζούγκλα είναι μια κατοικητική περιοχή για είδικα πειρασμένα ζώα.",
+            "Hē zounkla einai mia katikētiki per"
+        ]
+    },
+    {
+        "ancient_greek_word": "κατασκηνωση",
+        "english_spelling": "kataskenōsi",
+        "english_translation": "encampment",
+        "pronunciation": "ka-ta-ske-no-si",
+        "part_of_speech": "Noun",
+        "definition": "A temporary settlement or dwelling place, especially one established by an army for military purposes.",
+        "etymology": "Derived from 'κατασκήνωσις' (kataskenōsis), from 'κατά' (kata), meaning 'down' and 'σκηνή' (skēnē), meaning 'tent' or 'dwelling place'",
+        "example": [
+            "Οι πείρατες κατασκήνωσαν στη ζούγκλα για να εκτοπίσουν νέες πείρασεις.",
+            "Oi peirates kataskenōsan sti zōngla gia na ektopisoun nees peiraseis.",
+            "The pirates established an encampment in the jungle for new explorations."
+        ]
+    },
+    {
+        "ancient_greek_word": "φρικαλεός",
+        "english_spelling": "phrikaleós",
+        "english_translation": "frightening",
+        "pronunciation": "fri-ka-le-os",
+        "part_of_speech": "Adjective",
+        "definition": "Causing fear or alarm; having a scary appearance or",
+        "etymology": "Derived from 'φρίκη' (phrikē), meaning 'fright' or '",
+        "example": [
+            "Η φρικαλεός ζούγκλα έκανε τους πειραστές να είναι προσεκτικοί",
+            "I phrikaleós zōngla ekane tous peirastes na einai prosektikoi",
+            "The frightening jungle made the explorers cautious."
+        ]
+    },
+    {
+        "ancient_greek_word": "στροβιλία",
+        "english_spelling": "strovilía",
+        "english_translation": "thicket",
+        "pronunciation": "ˈstɾɔvɪlɪa",
+        "part_of_speech": "noun",
+        "definition": "a dense group of bushes or trees",
+        "etymology": "Derived from the Greek word 'στροβίλος' meaning 'twisted' or 'wound up'",
+        "example": [
+            "Το στροβιλία ήταν πολύ παχύ και αδύνατο να περάσει ο επισκέπτης.",
+            "To strovilía itan polý pachý ke adýnato na perási o episképtis.",
+            "The thicket was very thick and the visitor was unable to pass through."
+        ]
+    },
+    2. 
+    {
+        "ancient_greek_word": "δασική",
+        "english_spelling": "dasikí",
+        "english_translation": "jungle",
+        "pronunciation": "ˈda.sikɪ",
+        "part_of_speech": "noun",
+        "definition": "a dense forest in a tropical region",
+        "etymology": "Derived from the Greek word 'δάσος' meaning 'forest' or 'wood'",
+        "example": [
+            "Οι πειρατές αναζητούσαν το κλειδί στην δασική για να βρουν την πόλη των ελέφαντων.",
+            "I piretés anazitousán to kleidí stin dasikí gia na vroun tin póli ton elfanton.",
+            "The pirates were searching for the key in the jungle to find the city of the elephants."
+        ]
+    },
+    3. 
+    {
+        "ancient_greek_word": "εντοπιστικός",
+        "english_spelling": "entopistikós",
+        "english_translation": "exploratory",
+        "pronunciation": "ɛn.to.pɪsˈti.kɔs",
+        "part_of_speech": "adjective",
+        "definition": "intended for or involved in exploring or discovering new information",
+        "etymology": "Derived from the Greek word 'εντοπίζω' meaning 'to discover' or 'to find'",
+        "example": [
+            "Η εντοπιστική εκστρ"
+        ]
+    },
+    {
+        "ancient_greek_word": "στενοχωρία",
+        "english_spelling": "stenochoria",
+        "english_translation": "narrow pass",
+        "pronunciation": "'stɛnoʧoʁi.a",
+        "part_of_speech": "noun",
+        "definition": "a narrow passageway in a jungle or forest",
+        "etymology": "From the Greek word 'στενός' meaning 'narrow' and 'χωρίον' meaning 'place'",
+        "example": [
+            "Η στενοχωρία ήταν ένας τρόπος να διασχίσουν τα σκαλωσιές.",
+            "Hē stenochoria ētan enas trópos na diaschísoun ta skalosiés.",
+            "The narrow pass was a way to cross the cliffs."
+        ]
+    },
+    {
+        "ancient_greek_word": "θηριακή",
+        "english_spelling": "thiriakē",
+        "english_translation": "hunting",
+        "pronunciation": "θi'ri.a.kɛ",
+        "part_of_speech": "adjective",
+        "definition": "related to hunting or the act of hunting",
+        "etymology": "From the Greek word 'θήρα' meaning 'hunt'",
+        "example": [
+            "Ο θηριακός στρατηγός υποστηρίζει την καταπολέμηση των αντιπάλων.",
+            "O thiriakós stratigós ypostirízi tin katapolémisi ton antipálon.",
+            "The hunting commander supports the defeat of the enemies."
+        ]
+    },
+    {
+        "ancient_greek_word": "ζούγκλο",
+        "english_spelling": "zouglo",
+        "english_translation": "jungle vine",
+        "pronunciation": "zu'ɣlo",
+        "part_of_speech": "noun",
+        "definition": "a vine growing in the jungle",
+        "etymology": "From the Greek word 'ζούγκλα' meaning 'jungle' and 'οίνος' meaning 'vine'",
+        "example": [
+            "Το ζούγκλο συνήθως είναι στερεό και χρήσιμο για την ασφάλεια.",
+            "To zouglo siníthos eínai stereó kai chrísimo g"
+        ]
+    },
+    {
+        "ancient_greek_word": "στρατόπεδο",
+        "english_spelling": "stratopedo",
+        "english_translation": "encampment",
+        "pronunciation": "stra-to-PE-do",
+        "part_of_speech": "noun",
+        "definition": "A temporary shelter or quarters for troops in a military campaign",
+        "etymology": "From the ancient Greek word 'stratos' meaning 'army' and 'pedion' meaning 'ground'",
+        "example": [
+            "Το στρατόπεδο των στρατιωτών ήταν στην κορυφή του βουνού.",
+            "To stratopedo ton stratiotón ítan stin koryfí tou vounoú.",
+            "The soldiers' encampment was on top of the mountain."
+        ]
+    },
+    {
+        "ancient_greek_word": "στρατιωτικός",
+        "english_spelling": "stratiotikos",
+        "english_translation": "military",
+        "pronunciation": "stra-tee-o-TEE-kos",
+        "part_of_speech": "adjective",
+        "definition": "Relating to the armed forces or military",
+        "etymology": "Derived from the ancient Greek word 'stratos' meanin",
+        "example": [
+            "Το στρατιωτικό στρατόπεδο ήταν στο πέρασμα της ζούγκλας.",
+            "To stratiotiko stratopedo ítan sto perasma tis zoúglas.",
+            "The military encampment was in the jungle pass."
+        ]
+    },
+    {
+        "ancient_greek_word": "δασοκόμος",
+        "english_spelling": "dasokomos",
+        "english_translation": "forester",
+        "pronunciation": "da-so-KO-mos",
+        "part_of_speech": "noun",
+        "definition": "A person responsible for the management and care of",
+        "etymology": "From the ancient Greek word 'dasos' meaning 'forest'",
+        "example": [
+            "Ο δασοκόμος παρακολούθησε την εκτοπιστική στρατιά στη ζούγκλα",
+            "O dasokomos parakolúthese tin ektopistiki stratía sti zoúgla.",
+            "The forester followed the exploratory army into the jungle."
+        ]
+    }
+]

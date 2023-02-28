@@ -1,0 +1,600 @@
+1. ἄνθραξ -- anthrax -- coal
+    /ánthracos, noun, masculine
+
+    Definition:
+    A black, carbonaceous substance formed by the partial decay or carbonization of organic matter.
+
+    Etymology:
+    From Proto-Indo-European *h₂éntlos (“coal”), from h₂en- (“to kindle, burn”).
+
+    Connotations:
+    Fire, fuel, power
+
+    Collocations:
+    ἄνθραξ ἄνωθεν - coal from above, i.e., burned-out volcanic ash
+
+    Word Families:
+    ἀνθρακολόγος (anthrakológos) - coal miner
+
+    Synonyms and Antonyms:
+    ξύλον (xylon) - wood, antonym
+    λίθος (lithos) - stone, antonym
+
+    Ancient Greek Example Sentence:
+    ὁ ἄνθραξ ἔχει μεγάλην δύναμιν. (ho anthrax échei megalēn dýnamin.)
+    The coal has great power.
+
+2. βάλλω -- ballō -- to throw
+    /bállō, verb, transitive
+
+    Definition:
+    To hurl, cast, or throw.
+
+    Etymology:
+    From Proto-Indo-European *gʷʰel- (“to throw, fling”).
+
+    Connotations:
+    Force, violence, explosion
+
+    Collocations:
+    βάλλειν πῦρ - to throw fire, i.e., to cause an eruption
+
+    Word Families:
+    βάλλιστρον (ballistrón) - catapult
+
+    Synonyms and Antonyms:
+    ρίπτω (ríptō) - to throw, synonym
+    κρατεῖν (krateîn) - to hold, antonym
+
+    Ancient Greek Example Sentence:
+    ὁ ὄρος βάλλει πυρί. (ho óros ballēi pyrí.)
+    The mountain throws fire.
+
+3. γεώλογος -- geōlogos -- geologist
+    /geōlogos, noun, masculine
+
+    Definition:
+    A scientist who studies the structure, composition, and history of the Earth's crust.
+
+    Etymology:
+    From γῆ (gē, “earth”) + λόγος (logos, “word, speech, study”).
+
+    Connotations:
+    Science, knowledge, exploration
+
+    Collocations:
+    γεώλογος τῶν ἀγνώστων - geologist of the unknown, i.e., one who studies unexplored areas
+
+    Word Families:
+    γεωλογία (geōlogía) - geology
+
+    Synonyms and Antonyms:
+    μετεωρολόγος (meteorológos) - meteorologist, synonym
+    φυσικός (physikós) - physicist, antonym
+
+    Ancient Greek Example Sentence:
+    ὁ γεώλογος μελετᾷ τὴν δομήν τῆ
+
+4. δακρύω -- dakryō -- to weep
+    /dakrýō, verb, intransitive
+
+    Definition:
+    To shed tears; to cry.
+
+    Etymology:
+    From δάκρυ (dákru, “tear”).
+
+    Connotations:
+    Sadness, grief, mourning
+
+    Collocations:
+    δακρύειν πῦρ - to weep fire, i.e., a metaphorical way of describing a volcanic eruption
+
+    Word Families:
+    δάκρυ (dákru) - tear
+
+    Synonyms and Antonyms:
+    κλαίω (klaíō) - to cry, synonym
+    γελάω (geláō) - to laugh, antonym
+
+    Ancient Greek Example Sentence:
+    οἱ ἀνθρώποι δακρύουσιν διὰ τὴν ἀπώλειαν τῶν πόλεών των. (hoi anthrōpoi dakryousin dia tēn apōleian tōn póleōn tōn.)
+    The people weep for the loss of their cities.
+
+5. ἐκρήγνυμι -- ekrēgnymi -- to erupt
+    /ekrḗgnymi, verb, intransitive
+
+    Definition:
+    To burst forth, as from a volcano.
+
+    Etymology:
+    From ἐκ (ek, “out of”) + ῥήγνυμι (rhḗgnymi, “to break”).
+
+    Connotations:
+    Power, release, energy
+
+    Collocations:
+    ἐκρήγνυται τὸ ὄρος - the mountain erupts
+
+    Word Families:
+    κρηγνυτικός (krēgnutikós) - eruptive
+
+    Synonyms and Antonyms:
+    ἐκχύνω (ekchýnō) - to pour out, synonym
+    στέλλω (stéllō) - to restrain, antonym
+
+    Ancient Greek Example Sentence:
+    τὸ ὄρος ἐκρήγνυτο καὶ ἔβαλε πῦρ. (to óros ekrḗgnuto kaì ébale pyr.)
+    The mountain erupted and spewed fire.
+
+6. ζεύγος -- zeugos -- pair, yoke
+    /zeugos, noun, neuter
+
+    Definition:
+    A pair or couple; a yoke or harness for animals.
+
+    Etymology:
+    From ζεύγνυμι (zeugnumi, “to yoke”).
+
+    Connotations:
+    Balance, partnership, connection
+
+    Collocations:
+    ζεῦγος ἵππων - a pair of horses, often used to describe a metaphorical yoke
+
+    Word Families:
+    ζευκτήριον (zeuktḗrion) - coupling
+
+    Synonyms and Antonyms:
+    δίδυμος (dídymos) - twin, synonym
+    μονάς (monás) - solitary, antonym
+
+7. θερμός -- thermos -- hot
+    /thermós, adjective, masculine
+
+    Definition:
+    Hot, heated; of or pertaining to heat.
+
+    Etymology:
+    From θέρμη (thérmē, “heat”).
+
+    Connotations:
+    Heat, warmth, energy
+
+    Collocations:
+    θερμὸς λάβρος - boiling lava, used to describe the high temperature of volcanic lava
+
+    Word Families:
+    θέρμα (thérma) - heat
+
+    Synonyms and Antonyms:
+    ζεστός (zestós) - warm, synonym
+    ψυχρός (psychrós) - cold, antonym
+
+    Ancient Greek Example Sentence:
+    ἡ λίμνη ἦν θερμή καὶ οἱ ἄνθρωποι ἐπέπινον τὸ νερόν. (hē límnē ên thermḗ kaì hoi ánthrōpoi epépinon tò nerón.)
+    The lake was hot and the people drank the water.
+
+8. θύμος -- thymos -- anger, passion
+    /thymos, noun, masculine
+
+    Definition:
+    Anger, passion; the heart, spirit, or soul.
+
+    Etymology:
+    From θύω (thúō, “to sacrifice”).
+
+    Connotations:
+    Intensity, fire, emotion
+
+    Collocations:
+    θυμὸς ἡφαιστείος - volcanic passion, used to describe the intense emotions associated with volcanic activity
+
+    Word Families:
+    θυμόω (thymóō) - to be angry
+    θυμίαμα (thymíama) - incense
+
+    Synonyms and Antonyms:
+    ὀργή (orgḗ) - anger, synonym
+    ἡσυχία (hēsychía) - calm, antonym
+
+    Ancient Greek Example Sentence:
+    ὁ θυμὸς αὐτοῦ ἦν μέγας καὶ ἐφαίνετο δι' ὀφθαλμῶν. (ho thymòs autoû ên mégas kaì ephaineto di' ophthalmoûn.)
+    His passion was great and was visible in his eyes.
+
+9. καπνός -- kapnos -- smoke
+    /kapnós, noun, masculine
+
+    Definition:
+    Smoke, fumes; a cloud or plume of smoke.
+
+    Etymology:
+    From καπνόω (kapnóō, “to smoke”).
+
+    Connotations:
+    Fire, destruction, pollution
+
+    Collocations:
+    καπνός ἀπό ἱεροῦ - sacred smoke, used to describe the smoke that rises from offerings made to the gods
+
+    Word Families:
+    καπνίζω (kapnízō) - to smoke
+    καπνηλάτης (kapnēlátēs) - smoker, one who makes or uses smoke
+
+    Synonyms and Antonyms:
+    κ
+
+16. μάζα -- maza -- mass
+    /máza, noun, feminine
+
+    Definition:
+    Mass, bulk, weight; a lump or chunk of material.
+
+    Etymology:
+    From μασάω (masáō, “to chew”), referring to the chewing of food or materials.
+
+    Connotations:
+    Density, solidity, heaviness
+
+    Collocations:
+    μάζα λάβρα - dense mass, used to describe the solid and heavy consistency of volcanic rock
+
+    Word Families:
+    μαστίξ (mastíx) - chewing gum
+    μάσημα (masēma) - a chewed object, masticated substance
+
+    Synonyms and Antonyms:
+    βάρος (város) - weight, synonym
+    όγκος (ógkos) - volume, antonym
+
+    Ancient Greek Example Sentence:
+    ἡ μάζα τοῦ λίθου ἦν βαρεῖα καὶ δύσκολος ἦν ὁ κορμός. (hē máza toû líthou ên bareîa kaì dúskolos ên ho kormós.)
+    The mass of the stone was heavy and the trunk was difficult to move.
+
+17. νέφος -- nephos -- cloud
+    /néphos, noun, neuter
+
+    Definition:
+    Cloud, mist, fog; a mass of vapor in the air.
+
+    Etymology:
+    From νέπω (népō, “to overspread”).
+
+    Connotations:
+    Obscurity, uncertainty, cover
+
+    Collocations:
+    νέφος τῆς ἀπορίας - cloud of confusion, used to describe the feeling of being lost or uncertain in a situation
+
+    Word Families:
+    νεφέλη (nephélē) - cloud
+    νεφελοειδής (nepheloeidḗs) - cloud-like, resembling a cloud
+
+    Synonyms and Antonyms:
+    ἀτμός (atmós) - vapor, synonym
+    φως (phōs) - light, antonym
+
+    Ancient Greek Example Sentence:
+    τὸ νέφος ἦν βαθύ καὶ οἱ ἄνθρωποι οὐκ εἶδον τὸν ἥλιον. (tò néphos ên bathý kaì hoi ánthrōpoi ouk eîdon tòn hḗlion.)
+    The cloud was thick and the people did not see the sun.
+
+18. πυρ -- pur -- fire
+    /púr, noun, neuter
+
+    Definition:
+    Fire, flames, heat; a destructive and transformative force.
+
+    Etymology:
+    From πύρω (púrō, “to burn”).
+
+    Connotations:
+    Energy, passion, danger
+
+    Collocations:
+    πῦρ ἱερόν - sacred fire, used to describe the flame that burns on an altar in a temple
+
+    Word Families:
+    πυρέσσω (pyréssō) - to kindle, ignite
+    πυρίζω (pyrízō) - to set on fire, burn
+    πυρά (pyrá) - a heap of burning wood, funeral pyre
+
+    Synonyms and Antonyms:
+    φλόξ (phlóx) - flame, synonym
+    ψύχρα (psýchra) - coldness, antonym
+
+    Ancient Greek Example Sentence:
+    τὸ πῦρ ἦν θερμό καὶ τὰ κλαδιά κατέκαυσεν. (tò pûr ên thermó kaì tà kladía katékausen.)
+    The fire was hot and it burned the branches.
+
+19. πλύνω -- pluno -- to wash
+    /plúnō, verb, transitive
+
+    Definition:
+    To wash, cleanse, purify; to make clean by the use of water or other liquid.
+
+    Etymology:
+    From πλυντήριον (pluntḗrion, “a washing machine”).
+
+    Connotations:
+    Cleanliness, renewal, refreshment
+
+    Collocations:
+    πλύσιμο τῶν χειρῶν - washing of the hands, a common ritual in ancient Greek culture before meals and other important events
+
+    Word Families:
+    πλυντήριον (pluntḗrion) - a washing machine
+    πλύσις (plúsis) - a washing, cleaning
+
+    Synonyms and Antonyms:
+    καθαίρω (kathaírō) - to purify, synonym
+    μιαίνω (miainō) - to defile, antonym
+
+    Ancient Greek Example Sentence:
+    πλύνατε τὰς χεῖρας ὑμῶν πρὸ τοῦ ἀρίστου. (plúnate tàs kheîras humôn prò toû arístou.)
+    Wash your hands before dinner.
+
+20. ροή -- roe -- flow
+    /roḗ, noun, feminine
+
+    Definition:
+    Flow, stream, current; the movement of a liquid or gas.
+
+    Etymology:
+    From ῥέω (rhéō, “to flow”).
+
+    Connotations:
+    Movement, change, continuity
+
+    Collocations:
+    ροὴ τοῦ λάβαρος - flow of lava, used to describe the movement of molten rock in a volcanic eruption
+
+    Word Families:
+    ῥεῦμα (rheûma) - a stream, flow
+    ῥεύω (rheúō) - to flow
+    ῥοιά (rhoiá) - a stream, brook
+
+    Synonyms and Antonyms:
+    ῥεῦσις (rheûsis) - flow, synonym
+    στάσις (stásis) - standstill, antonym
+
+    Ancient Greek Example Sentence:
+    ἡ ροὴ τοῦ νεροῦ ἦν ὑπερβολική. (hē roḕ toû nerou ên hyperbolikḗ.)
+    The flow of the water was excessive.
+
+21. λαβύρινθος -- laburinthos -- labyrinth
+    /labúrinthos, noun, masculine
+
+    Definition:
+    Labyrinth, maze; a complex and confusing arrangement of paths or passages.
+
+    Etymology:
+    Uncertain, possibly from an Egyptian word for a palace or temple.
+
+    Connotations:
+    Confusion, complexity, mystery
+
+    Collocations:
+    ὁ λαβύρινθος τῆς Κνωσοῦ - the labyrinth of Knossos, a famous ancient Greek 
+
+    Word Families:
+    λαβύρινθιζω (laburinthizō) - to perplex, confuse
+    λαβυρινθόδενδρον (laburinthódendron) - a plant that grows in a labyrinth
+    λαβυρινθοποιέω (laburinthopoiéō) - to make a labyrinth
+
+    Synonyms and Antonyms:
+    μαζός (mazós) - a maze, synonym
+    εὐθυδρομία (euthydro̱mía) - straight path, antonym
+
+    Ancient Greek Example Sentence:
+    ὁ λαβύρινθος ἦν τόσον μεγάλος ὥστε δύο μήνας ἐπέμεινεν ὁ Θησεύς πρὸ τοῦ ἐξόoú.)
+    The labyrinth was so big that Theseus stayed in it
+
+
+1. ἡφαίστειος -- hephaisteios -- volcanic
+    heh-fay-STAY-ee-ohs, adjective, masculine
+
+    Definition:
+    Relating to or characteristic of a volcano.
+
+    Etymology:
+    From the name of the Greek god of fire and metalworking, Hephaestus.
+
+    Connotations:
+    Power, danger, destruction.
+
+    Collocations:
+    ἡφαίστειος κρατήρας (hephaisteios kratéras) - volcanic crater
+
+    Word Families:
+    ἡφαίστειον (hephaisteion) - volcano
+    ἡφαιστειακός (hephaisteiakos) - volcanic
+    ἡφαιστειακή δραστηριότητα (hephaisteiaki drastiriotita) - volcanic activity
+
+    Synonyms and Antonyms:
+    Synonyms: ηφαιστειακός (hephaisteiakos)
+    Antonyms: ανενεργός (anenergos) - inactive, dormant
+
+    Ancient Greek Example Sentence:
+    Ἡ ἰσχυρὴ ἡφαίστειος ἐξέρρηξε τὸν κρατήρα της.
+    (Hē ischyrḕ hephaisteios exérrexε tòn kratḗra tēs.)
+    The strong volcano erupted its crater.
+
+2. καυστικός -- kaustikos -- caustic
+    kow-STEE-kos, adjective, masculine
+
+    Definition:
+    Capable of burning, corroding, or destroying living tissue.
+
+    Etymology:
+    From καίω (kaio), meaning "to burn".
+
+    Connotations:
+    Burning, corrosive, destructive.
+
+    Collocations:
+    καυστικός χημικός (kaustikos chēmikos) - caustic chemical
+
+    Word Families:
+    καυστικότητα (kaustikotēta) - causticity
+    καυστήρ (kaustēr) - burner
+
+    Synonyms and Antonyms:
+    Synonyms: διαβρωτικός (diavrotikos), στιγματιστικός (stigmatistikos)
+    Antonyms: ακίνδυνος (akindyos) - harmless, benign
+
+    Ancient Greek Example Sentence:
+    Ὁ καυστικὸς καπνὸς τοῦ ἡφαιστείου προκάλεσε αναπνευστικά προβλήματα.
+    (Ho kaustikos kapnos tou hephaisteiou prokalese anapneustika problēmata.)
+    The caustic smoke from the volcano caused respiratory problems.
+
+1> !file prompt
+
+1. ἀνατολή -- anatolē -- sunrise
+    ah-nah-toh-ley, noun, feminine
+
+    The place where the sun rises; a volcanic vent that emits gases and ash.
+
+2. βορράς -- borrās -- north wind
+    boh-rrahs, noun, masculine
+
+    A cold wind that can accompany a volcanic eruption, blowing ash and other materials in a northerly direction.
+
+3. γεώλογος -- geōlogos -- geologist
+    jeh-oh-loh-gohs, noun, masculine
+
+    A person who studies the structure, composition, and processes of the earth, including volcanoes.
+
+4. διαχωρίζω -- diachōrizō -- separate
+    dee-ah-khoh-ree-zoh, verb, transitive
+
+    To divide or separate something into different parts; can be used to describe the separation of different types of volcanic material during an eruption.
+
+5. ἐκρήγνυμι -- ekrēgnymi -- erupt
+    eh-krehg-nuh-mee, verb, intransitive
+
+    To erupt, burst forth; can be used specifically to describe volcanic eruptions.
+
+6. θερμικός -- thermikos -- thermal
+    thehr-mee-kohs, adjective
+
+    Related to heat or temperature; can be used to describe the heat and energy associated with volcanic activity.
+
+7. θύομαι -- thyomai -- sacrifice
+    thoo-oh-meye, verb, intransitive
+
+    To offer a sacrifice or make an offering; can be used metaphorically to describe the destruction caused by a volcanic eruption.
+
+8. ἰξύς -- ixus -- viscous
+    ee-ksüs, adjective
+
+    Thick, sticky, and resistant to flow; can be used to describe the texture of lava or other volcanic materials.
+
+9. καυστικός -- kaustikos -- caustic
+    kow-stee-kohs, adjective
+
+    Capable of burning or corroding; can be used to describe the acidity of volcanic gases and ash.
+
+10. λάβα -- lava -- lava
+    lah-vah, noun, feminine
+
+    Molten rock that has flowed from a volcano; can solidify into various forms and textures as it cools.
+
+11. μαγματικός -- magmatikos -- magmatic
+    mahg-mah-tee-kohs, adjective
+
+    Related to magma, the molten rock beneath the Earth's surface that feeds volcanic eruptions.
+
+12. νότος -- notos -- south wind
+    noh-tohs, noun, masculine
+
+    A warm wind that can accompany a volcanic eruption, blowing ash and other materials in a southerly direction.
+
+13. ὀστέον -- osteon -- bone
+    os-teh-on, noun, neuter
+
+    A bone-like structure that can form as a result of volcanic activity; can be found in various shapes and sizes.
+
+14. παρακολουθέω -- parakolouthéō -- monitor
+    pah-rah-koh-loo-théh-oh, verb, transitive
+
+    To observe or keep track of something over time; can be used to describe the monitoring of volcanic activity.
+
+15. πηλός -- pēlos -- mud
+    peh-lohs, noun
+
+
+2> thanks! please continue by finishing the last word and fixing the format!
+
+Certainly! Apologies for the incomplete previous response.
+
+16. πυκνός -- pyknos -- dense
+    peek-nos, adjective
+
+    Thick and concentrated; can be used to describe the density of volcanic rock.
+
+17. σεισμός -- seismos -- earthquake
+    seys-mohs, noun, masculine
+
+    A sudden shaking or movement of the Earth's surface, often associated with volcanic activity.
+
+18. στρώση -- strōsē -- layer
+    stroh-say, noun, feminine
+
+    A sheet or layer of material; can be used to describe the different layers of volcanic rock and ash.
+
+19. τοξότης -- toxotēs -- archer
+    toh-khoh-tace, noun, masculine
+
+    An archer or marksman; can be used metaphorically to describe the precision and accuracy of volcanic projectiles such as ash and pumice.
+
+20. φρέαρ -- phrear -- crater
+    fray-ahr, noun, neuter
+
+    A bowl-shaped depression or vent on the surface of a volcano, often filled with water.
+
+21. χαλαζόπετρα -- chalazopetra -- hailstone
+    khah-lah-zoh-peh-trah, noun, feminine
+
+    A large, hard ball of ice that falls from the sky during a volcanic eruption, often accompanied by ash and other debris.
+
+22. ψαμμίτης -- psammitēs -- sandstone
+    psah-mee-tace, noun, masculine
+
+    A type of sedimentary rock formed from sand grains, often found near or within volcanic formations.
+
+23. ἀπειλέω -- apeileō -- threaten
+    ah-peh-lee-oh, verb, transitive
+
+    To make a threat or express an intention to harm or damage; can be used to describe the potential danger posed by volcanic eruptions.
+
+24. βοήθεια -- boētheia -- help, aid
+    boh-ay-thee-ah, noun, feminine
+
+    Assistance or support provided to someone in need; can be used to describe the efforts to rescue or evacuate people during a volcanic eruption.
+
+25. γλυκός -- glykos -- sweet
+    gleek-ohs, adjective
+
+    Pleasantly sweet to taste or smell; can be used metaphorically to describe the allure of volcanic landscapes or the deceptive calm before an eruption.
+
+26. δέρρις -- derris -- skin
+    deh-rees, noun, feminine
+
+    The outer covering or surface of an organism; can be used to describe the texture or appearance of volcanic rock.
+
+27. ἑλισσόμενος -- helissomenos -- rolling
+    heh-lees-soh-meh-nos, participle, masculine
+
+    Moving or tumbling in a rolling motion; can be used to describe the movement of volcanic debris down a slope.
+
+28. ἰζήμα -- izēma -- sediment
+    ee-zay-mah, noun, neuter
+
+    Particles or material that have settled or accumulated in a body of water or other substance; can be used to describe the formation of sedimentary rocks from v olcanic ash and other debris.
+
+29. κονιορτός -- koniortos -- ash
+    koh-nee-ohr-tohs, noun, masculine
+
+    Fine, powdery material that is ejected from a volcano during an eruption
+
+

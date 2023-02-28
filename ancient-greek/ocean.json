@@ -1,0 +1,654 @@
+[
+    {
+        "ancient_greek_word": "θάλασσα",
+        "english_spelling": "thalassa",
+        "english_translation": "sea",
+        "pronunciation": "θάλασσα",
+        "part_of_speech": "noun",
+        "definition": "A large body of salt water that covers much of the earth's surface",
+        "etymology": "Derived from the ancient Greek word 'thalatta', which means 'sea' or 'ocean'",
+        "example": [
+            "Η θάλασσα ήταν πολύ μεγάλη και επικίνδυνη.",
+            "The sea was very large and dangerous.",
+            "Η θάλασσα ήταν πολύ μεγάλη και επικίνδυνη."
+        ]
+    },
+    {
+        "ancient_greek_word": "οινόφιλος",
+        "english_spelling": "oinophilos",
+        "english_translation": "wine-loving",
+        "pronunciation": "οινόφιλος",
+        "part_of_speech": "adjective",
+        "definition": "Loving or fond of wine",
+        "etymology": "Derived from the ancient Greek words 'oinos' meaning 'wine' and 'philos' meaning 'loving'",
+        "example": [
+            "Ο οινόφιλος άνθρωπος ήθελε να πιεί καλό κρασί.",
+            "The wine-loving man wanted to drink good wine.",
+            "Ο οινόφιλος άνθρωπος ήθελε να πιεί καλό κρασί."
+        ]
+    },
+    {
+        "ancient_greek_word": "θάλασσα",
+        "english_spelling": "thalassa",
+        "english_translation": "sea",
+        "pronunciation": "θálassa",
+        "part_of_speech": "noun",
+        "definition": "a large body of salt water that covers much of the Earth's surface",
+        "etymology": "Derived from the ancient Greek word for 'sea'",
+        "example": [
+            "Η θάλασσα είναι πολύ μεγάλη.",
+            "Thalassa einai poly megalē.",
+            "The sea is very large."
+        ]
+    },
+
+    {
+        "ancient_greek_word": "ποταμός",
+        "english_spelling": "potamos",
+        "english_translation": "river",
+        "pronunciation": "potámos",
+        "part_of_speech": "noun",
+        "definition": "a large, flowing body of water that empties into an ocean, lake, or other body of water",
+        "etymology": "Derived from the ancient Greek word for 'river'",
+        "example": [
+            "Ο ποταμός έχει πολλά αξιόλογα μέρη.",
+            "O potamos echei polla axiologa meri.",
+            "The river has many interesting places."
+        ]
+    },
+
+    {
+        "ancient_greek_word": "φάρος",
+        "english_spelling": "pharos",
+        "english_translation": "lighthouse",
+        "pronunciation": "fáros",
+        "part_of_speech": "noun",
+        "definition": "a tower or structure with a powerful light that warns ships of danger and guides them to safety",
+        "etymology": "Derived from the ancient Greek word for 'lighthouse'",
+        "example": [
+            "Το φάρος είναι ένας σημαντικός ορόσημος για τους πλοίους.",
+            "To pharos einai enas simantikos orósimos gia tous ploious.",
+            "The lighthouse is an important landmark for ships."
+        ]
+    },
+    {
+        "ancient_greek_word": "ναυάγιο",
+        "english_spelling": "naus",
+        "english_translation": "shipwreck",
+        "pronunciation": "nafágio",
+        "part_of_speech": "noun",
+        "definition": "the remains of a ship that has been destroyed or sunk in the water",
+        "etymology": "Derived from the ancient Greek word for 'shipwreck'",
+        "example": [
+            "Το ναυάγιο βρίσκεται στο βάθος της θαλάσσας.",
+            "To nafagio vriskete sto váthos tis thalássas.",
+            "The shipwreck is located at the bottom of the sea."
+        ]
+    },
+    {
+        "ancient_greek_word": "αλιεία",
+        "english_spelling": "alieia",
+        "english_translation": "fishing",
+        "pronunciation": "alieía",
+        "part_of_speech": "noun",
+        "definition": "the activity of catching fish for commercial or recreational purposes",
+        "etymology": "Derived from the ancient Greek word for 'fishing'",
+        "example": [
+            "Η αλιεία είναι μια σημαντική επιχείρηση για την περιοχή.",
+            "I alieia einai mia simantiki epicheirisi gia tin perióchi.",
+            "Fishing is an important business for the area."
+        ]
+    },
+
+    {
+        "ancient_greek_word": "πλοίο",
+        "english_spelling": "ploion",
+        "english_translation": "ship",
+        "pronunciation": "ploíon",
+        "part_of_speech": "noun",
+        "definition": "a large, water-borne vessel used for transportation, commerce, or recreation",
+        "etymology": "Derived from the ancient Greek word for 'ship'",
+        "example": [
+            "Το πλοίο είναι ένα μεγάλο σκάφος.",
+            "To ploion einai ena megaló skáfos.",
+            "The ship is a large vessel."
+        ]
+    },
+
+    {
+        "ancient_greek_word": "θαλασσινό",
+        "english_spelling": "thalassinós",
+        "english_translation": "marine",
+        "pronunciation": "thalassinós",
+        "part_of_speech": "adjective",
+        "definition": "relating to or living in the sea",
+        "etymology": "Derived from the ancient Greek word for 'marine'",
+        "example": [
+            "Το θαλασσινό ζωικό ζει στην θάλασσα.",
+            "To thalassinó zoikó zi stin thálassa.",
+            "The marine animal lives in the sea."
+        ]
+    },
+
+    {
+        "ancient_greek_word": "ορμή",
+        "english_spelling": "ormi",
+        "english_translation": "surge",
+        "pronunciation": "ormí",
+        "part_of_speech": "noun",
+        "definition": "a strong, sudden rise in the level of the sea",
+        "etymology": "Derived from the ancient Greek word for 'surge'",
+        "example": [
+            "Η ορμή της θαλάσσας ήταν σταθερή.",
+            "I ormi tis thalássas ítan statherí.",
+            "The surge of the sea was steady."
+        ]
+    },
+
+    {
+        "ancient_greek_word": "θάλασσα",
+        "english_spelling": "thalassa",
+        "english_translation": "sea",
+        "pronunciation": "thalássa",
+        "part_of_speech": "noun",
+        "definition": "a large body of saltwater that covers a large part of the Earth's surface",
+        "etymology": "Derived from the ancient Greek word for 'sea'",
+        "example": [
+            "Η θάλασσα είναι μεγάλη και σπουδαία.",
+            "I thalássa einai megalí kai spoudaía.",
+            "The sea is large and magnificent."
+        ]
+    },
+
+    {
+        "ancient_greek_word": "οικοσύστημα",
+        "english_spelling": "oikosystima",
+        "english_translation": "ecosystem",
+        "pronunciation": "ikosystíma",
+        "part_of_speech": "noun",
+        "definition": "a biological community of interacting organisms and their physical environment",
+        "etymology": "Derived from the ancient Greek words for 'house' and 'system'",
+        "example": [
+            "Το οικοσύστημα της θαλάσσας είναι πολύ σημαντικό.",
+            "To oikosystima tis thalássas einai polý simantikó.",
+            "The ecosystem of the sea is very important."
+        ]
+    },
+
+    {
+        "ancient_greek_word": "διαρκής",
+        "english_spelling": "diarkis",
+        "english_translation": "permanent",
+        "pronunciation": "diárkis",
+        "part_of_speech": "adjective",
+        "definition": "lasting or continuing indefinitely without interruption",
+        "etymology": "Derived from the ancient Greek word for 'permanent'",
+        "example": [
+            "Η διαρκής επικρατεία του καλοκαιριού ήταν εξαιρετικά πιο υγιής απ' ό,τι προτού.",
+            "I diarkí epikrateía tou kalokairiou ítan exairetika pio ygíis ap' ó,ti protu.",
+            "The permanent rule of summer was much healthier than before."
+        ]
+    },
+
+    {
+        "ancient_greek_word": "επιπέδο",
+        "english_spelling": "epipedó",
+        "english_translation": "level",
+        "pronunciation": "epipédo",
+        "part_of_speech": "noun",
+        "definition": "the height or amount of something compared to a standard or normal level",
+        "etymology": "Derived from the ancient Greek word for 'level'",
+        "example": [
+            "Το επιπέδο της θαλάσσας είναι υψηλότερο απ' ό,τι προτού.",
+            "To epipedó tis thalássas einai ypsilótero ap' ó,ti protu.",
+            "The level of the sea is higher than before."
+        ]
+    },
+
+    {
+        "ancient_greek_word": "ελαττωματικός",
+        "english_spelling": "elattomatikós",
+        "english_translation": "deficient",
+        "pronunciation": "elattomatikós",
+        "part_of_speech": "adjective",
+        "definition": "not meeting a standard or normal level; lacking",
+        "etymology": "Derived from the ancient Greek word for 'deficient'",
+        "example": [
+            "Το ελαττωματικό νερό της θαλάσσας ήταν επικίνδυνο για τη ζωή.",
+            "To elattomatikó neró tis thalássas ítan epikínduno gia ti zoi.",
+            "The deficient water of the sea was dangerous for life."
+        ]
+    },
+
+    {
+        "ancient_greek_word": "εναντιότητα",
+        "english_spelling": "enantiotita",
+        "english_translation": "opposition",
+        "pronunciation": "enantiótita",
+        "part_of_speech": "noun",
+        "definition": "the state of being opposed to something or someone, especially in a conflicting or competitive way",
+        "etymology": "Derived from the ancient Greek word for 'opposition'",
+        "example": [
+            "Η εναντιότητα της θαλάσσας και του λεωφερείου ήταν σημαντική.",
+            "I enantiótita tis thalássas ke tou leofereíou ítan simantikí.",
+            "The opposition of the sea and the bus was significant."
+        ]
+    },
+
+    {
+        "ancient_greek_word": "επιφανειακός",
+        "english_spelling": "epifaneiakós",
+        "english_translation": "apparent",
+        "pronunciation": "epifaneiakós",
+        "part_of_speech": "adjective",
+        "definition": "clearly visible or obvious to the eye",
+        "etymology": "Derived from the ancient Greek word for 'apparent'",
+        "example": [
+            "Το επιφανειακό παρακάτωθις της θαλάσσας ήταν εντυπωσιακό.",
+            "To epifaneiakó parakátothis tis thalássas ítan entiposiakó.",
+            "The apparent stillness of the sea was impressive."
+        ]
+    },
+
+    {
+        "ancient_greek_word": "επαναστατικός",
+        "english_spelling": "epanastatikós",
+        "english_translation": "revolutionary",
+        "pronunciation": "epanastatikós",
+        "part_of_speech": "adjective",
+        "definition": "relating to or associated with a revolution, especially one aimed at a political or social change",
+        "etymology": "Derived from the ancient Greek word for 'revolutionary'",
+        "example": [
+            "Η επαναστατική δράση της θαλάσσας ήταν σημαντική για την εξέλιξη της περιοχής.",
+            "I epanastatikí drási tis thalássas ítan simantikí gia tin exélixi tis perióhis.",
+            "The revolutionary action of the sea was significant for the development of the area."
+        ]
+    },
+
+
+    {
+        "ancient_greek_word": "ναυτικός",
+        "english_spelling": "naftikos",
+        "english_translation": "nautical",
+        "pronunciation": "ˈnaftikos",
+        "part_of_speech": "adjective",
+        "definition": "relating to ships or seafaring",
+        "etymology": "Derived from the Greek word 'ναυτική' meaning 'of ships or seafaring'",
+        "example": [
+            "Ο ναυτικός πλοίαρχος ήταν σπουδαίος και επαγγελματίας.",
+            "The nautical captain was skilled and professional.",
+            "Translation: Ο ναυτικός πλοίαρχος ήταν σπουδαίος και επαγγελματίας."
+        ]
+    },
+
+    {
+        "ancient_greek_word": "θάλασσα",
+        "english_spelling": "thalassa",
+        "english_translation": "sea",
+        "pronunciation": "ˈθalasa",
+        "part_of_speech": "noun",
+        "definition": "a large body of salt water that covers a significant part of the Earth's surface",
+        "etymology": "Derived from the ancient Greek word 'θαλάσση' meaning 'the sea'",
+        "example": [
+            "Το καταιγιστικό έκανε να ακούγεται η βουλγαρική μουσική από τη θάλασσα.",
+            "The storm made the Bulgarian music sound from the sea.",
+            "Translation: Το καταιγιστικό έκανε να ακούγεται η βουλγαρική μουσική από τη θάλασσα."
+        ]
+    },
+
+    {
+        "ancient_greek_word": "ορμή",
+        "english_spelling": "ormi",
+        "english_translation": "force",
+        "pronunciation": "ˈormi",
+        "part_of_speech": "noun",
+        "definition": "a strength or energy exerted or brought to bear",
+        "etymology": "Derived from the ancient Greek word 'ορμή' meaning 'force, energy, or impulse'",
+        "example": [
+            "Η ορμή της θάλασσας xxx",
+            "xxx was too strong for the small boat.",
+            "Translation: Η ορμή της θάλασσας ήταν πολύ δυνατή για το μικρό πλοίο."
+        ]
+    },
+
+    {
+        "ancient_greek_word": "πλοίο",
+        "english_spelling": "ploio",
+        "english_translation": "ship",
+        "pronunciation": "ˈploio",
+        "part_of_speech": "noun",
+        "definition": "a large vessel designed for transportation by water",
+        "etymology": "Derived from the ancient Greek word 'πλοίο' meaning 'ship'",
+        "example": [
+            "Το πλοίο είναι ένα μεγάλο μέσο μεταφοράς για τη θάλασσα.",
+            "The ship is a large mode of transportation for the sea.",
+            "Translation: Το πλοίο είναι ένα μεγάλο μέσο μεταφοράς για τη θάλασσα."
+        ]
+    },
+
+    {
+        "ancient_greek_word": "κυμαίνομαι",
+        "english_spelling": "kymainomai",
+        "english_translation": "to sway or move back and forth",
+        "pronunciation": "kiˈmainomai",
+        "part_of_speech": "verb",
+        "definition": "to oscillate or be unsteady",
+        "etymology": "Derived from the ancient Greek word 'κυμαίνομαι' meaning 'to sway or move back and forth'",
+        "example": [
+            "Το πλοίο κυμαίνεται από τον προσαγωγικό αέρα της θάλασσας.",
+            "The ship sways from the ocean's incoming air.",
+            "Translation: Το πλοίο κυμαίνεται από τον προσαγωγικό αέρα της θάλασσας."
+        ]
+    },
+
+    {
+        "ancient_greek_word": "συρρέω",
+        "english_spelling": "syrreo",
+        "english_translation": "to drag or pull",
+        "pronunciation": "siˈrreo",
+        "part_of_speech": "verb",
+        "definition": "to pull or move something with force",
+        "etymology": "Derived from the ancient Greek word 'συρρέω' meaning 'to drag or pull'",
+        "example": [
+            "Το πελάγος συρρέει το πλοίο στον προσαγωγικό του αέρα.",
+            "The sea drags the ship towards its incoming air.",
+            "Translation: Το πελάγος συρρέει το πλοίο στον προσαγωγικό του αέρα."
+        ]
+    },
+
+    {
+        "ancient_greek_word": "φέρω",
+        "english_spelling": "phero",
+        "english_translation": "to carry or bring",
+        "pronunciation": "ˈfɛro",
+        "part_of_speech": "verb",
+        "definition": "to bring or take something from one place to another",
+        "etymology": "Derived from the ancient Greek word 'φέρω' meaning 'to carry or bring'",
+        "example": [
+            "Η θάλασσα φέρει τα σκάφη στην παραλία.",
+            "The ocean carries the boats to the beach.",
+            "Translation: Η θάλασσα φέρει τα σκάφη στην παραλία."
+        ]
+    },
+
+    {
+        "ancient_greek_word": "διασπάω",
+        "english_spelling": "diaspao",
+        "english_translation": "to break apart",
+        "pronunciation": "diˈaspao",
+        "part_of_speech": "verb",
+        "definition": "to cause something to separate or break into pieces",
+        "etymology": "Derived from the ancient Greek word 'διασπάω' meaning 'to break apart'",
+        "example": [
+            "Η βόρεια άνεμος διασπάζει τον κύμα στην ακτή.",
+            "The northern wind breaks the wave apart on the shore.",
+            "Translation: Η βόρεια άνεμος διασπάζει τον κύμα στην ακτή."
+        ]
+    },
+
+    {
+        "ancient_greek_word": "τάφρος",
+        "english_spelling": "taphros",
+        "english_translation": "beach",
+        "pronunciation": "ˈtafros",
+        "part_of_speech": "noun",
+        "definition": "a strip of sand or pebbles along a shore",
+        "etymology": "Derived from the ancient Greek word 'τάφρος' meaning 'beach'",
+        "example": [
+            "Οι παιδιά παίζουν στον τάφρο του θαλασσινού πελάγους.",
+            "The children play on the beach of the ocean.",
+            "Translation: Οι παιδιά παίζουν στον τάφρο του θαλασσινού πελάγους."
+        ]
+    },
+
+    {
+        "ancient_greek_word": "πλοίον",
+        "english_spelling": "ploion",
+        "english_translation": "ship",
+        "pronunciation": "ˈploion",
+        "part_of_speech": "noun",
+        "definition": "a large vessel used for transporting people or goods by sea",
+        "etymology": "Derived from the ancient Greek word 'πλοίον' meaning 'ship'",
+        "example": [
+            "Το πλοίο πλέει στον θαλασσινό πελάγος.",
+            "The ship sails on the ocean.",
+            "Translation: Το πλοίο πλέει στον θαλασσινό πελάγος."
+        ]
+    },
+
+    {
+        "ancient_greek_word": "σκάφος",
+        "english_spelling": "skaphos",
+        "english_translation": "boat",
+        "pronunciation": "ˈskafos",
+        "part_of_speech": "noun",
+        "definition": "a small watercraft used for transportation or recreation",
+        "etymology": "Derived from the ancient Greek word 'σκάφος' meaning 'boat'",
+        "example": [
+            "Οι θαλασσιές εκδρομές πραγματοποιούνται με σκάφη.",
+            "The sea excursions are carried out with boats.",
+            "Translation: Οι θαλασσιές εκδρομές πραγματοποιούνται με σκάφη."
+        ]
+    },
+    {
+        "ancient_greek_word": "στέγη",
+        "english_spelling": "stegi",
+        "english_translation": "roof",
+        "pronunciation": "ˈstɛgi",
+        "part_of_speech": "noun",
+        "definition": "a covering for the uppermost part of a building, typically supported by walls and a central pillar",
+        "etymology": "Derived from the ancient Greek word 'στέγη' meaning 'roof'",
+        "example": [
+            "Η στέγη του σκάφους είναι σκεπαστή από την ήλιο.",
+            "The roof of the boat is shaded from the sun.",
+            "Translation: Η στέγη του σκάφους είναι σκεπαστή από την ήλιο."
+        ]
+    },
+
+    {
+        "ancient_greek_word": "στόλος",
+        "english_spelling": "stolos",
+        "english_translation": "fleet",
+        "pronunciation": "ˈstolos",
+        "part_of_speech": "noun",
+        "definition": "a large group of ships or boats sailing together, especially for military purposes",
+        "etymology": "Derived from the ancient Greek word 'στόλος' meaning 'fleet'",
+        "example": [
+            "Το στόλος των σκαφών πλέει στην παραλία.",
+            "The fleet of boats sails to the beach.",
+            "Translation: Το στόλος των σκαφών πλέει στην παραλία."
+        ]
+    },
+
+    {
+        "ancient_greek_word": "θάλασσα",
+        "english_spelling": "thalassa",
+        "english_translation": "sea",
+        "pronunciation": "θəˈlasə",
+        "part_of_speech": "noun",
+        "definition": "a large body of salt water that covers most of the earth's surface",
+        "etymology": "Derived from the ancient Greek word 'θάλασσα' meaning 'sea'",
+        "example": [
+            "Το σκάφος πλέει στη θάλασσα.",
+            "The boat sails to the sea.",
+            "Translation: Το σκάφος πλέει στη θάλασσα."
+        ]
+    },
+    {
+        "ancient_greek_word": "πελάγος",
+        "english_spelling": "pelagos",
+        "english_translation": "ocean",
+        "pronunciation": "'pɛləgɒs",
+        "part_of_speech": "noun",
+        "definition": "the open sea, specifically the Mediterranean Sea",
+        "etymology": "Derived from the Proto-Indo-European root *pel- 'to spread, flat, wide'",
+        "example": [
+            "Το πελάγος είναι μεγάλο και μαγευτικό",
+            "To pelagos einai megalō kai mageutiko",
+            "The ocean is large and magical"
+        ]
+    },
+    {
+        "ancient_greek_word": "ναυτικός",
+        "english_spelling": "naftikos",
+        "english_translation": "related to ships or sailing",
+        "pronunciation": "nɑ'ftikɒs",
+        "part_of_speech": "adjective",
+        "definition": "related to ships or sailing",
+        "etymology": "Derived from the Greek word ναῦς (naus), meaning 'ship'",
+        "example": [
+            "Οι ναυτικοί τρόποι είναι σημαντικοί για την επικοινωνία μεταξύ των πόλεων",
+            "Oi naftikoi tropoi einai simantikoi gia tin epikoinonia metaxu ton poleōn",
+            "Nautical methods are important for communication between cities"
+        ]
+    },
+    {
+        "ancient_greek_word": "οίαση",
+        "english_spelling": "oiasis",
+        "english_translation": "calmness, stillness",
+        "pronunciation": "oi-ah-sis",
+        "part_of_speech": "noun",
+        "definition": "A state of calmness or stillness, especially in reference to the sea.",
+        "etymology": "Derived from the ancient Greek word for 'egg' (οἶος), likely due to the stillness of the sea being compared to an unbroken egg.",
+        "example": [
+            "Το κόλπο είναι ένα είδος οιασης.",
+            "To kolpo einai ena eidos oiasis.",
+            "The bay is a type of stillness."
+        ]
+    },
+    {
+        "ancient_greek_word": "εντοπιστής",
+        "english_spelling": "entopistes",
+        "english_translation": "navigator",
+        "pronunciation": "en-toh-pis-tehs",
+        "part_of_speech": "noun",
+        "definition": "A person responsible for navigating a ship on the ocean.",
+        "etymology": "Derived from the ancient Greek words for 'to find' (εντόπισται) and 'place' (τόπος), referring to the navigator's ability to find their way on the sea.",
+        "example": [
+            "Ο εντοπιστής ξέρει πώς να κατευθυνθεί το πλοίο.",
+            "O entopistes xerei pos na kateuthynthi to ploio.",
+            "The navigator knows how to steer the ship."
+        ]
+    },
+    {
+        "ancient_greek_word": "ορμή",
+        "english_spelling": "ormi",
+        "english_translation": "drive, impulse",
+        "pronunciation": "or-mee",
+        "part_of_speech": "noun",
+        "definition": "An impulse or drive to move or act, especially in reference to the movement of waves or currents in the ocean.",
+        "etymology": "Derived from the ancient Greek verb for 'to raise, lift' (ὀρμάω), referring to the upward movement of waves.",
+        "example": [
+            "Η ορμή της θαλασσας ήταν πολύ ισχυρή.",
+            "I ormi tis thalassas itan poli ischiri.",
+            "The drive of the ocean was very strong."
+        ]
+    },
+    {
+        "ancient_greek_word": "θάλασσα",
+        "english_spelling": "thalassa",
+        "english_translation": "sea",
+        "pronunciation": "Θάλασσα",
+        "part_of_speech": "noun",
+        "definition": "A large body of saltwater that covers much of the E",
+        "etymology": "Derived from the ancient greek word 'θάλασσα', meani",
+        "example": [
+            "Οι παραλίες βρίσκονται κοντά στη θάλασσα.",
+            "Oi paralies vriskontai konta sti thalassa.",
+            "The beaches are close to the sea."
+        ]
+    },
+    {
+        "ancient_greek_word": "ναυτικός",
+        "english_spelling": "nautikos",
+        "english_translation": "marine, relating to ships",
+        "pronunciation": "Ναυτικός",
+        "part_of_speech": "adjective",
+        "definition": "Relating to ships or navigation",
+        "etymology": "Derived from the ancient greek word 'ναύτης', meanin",
+        "example": [
+            "Οι ναυτικές αποστολές ήταν σημαντικές για την εκτέλεση των αν",
+            "Oi nautikes apostoles itan simantikes gia tin ektelesi ton an",
+            "Maritime missions were important for conducting explorations"
+        ]
+    },
+    {
+        "ancient_greek_word": "πελάγος",
+        "english_spelling": "pelagos",
+        "english_translation": "open sea",
+        "pronunciation": "Πελάγος",
+        "part_of_speech": "noun",
+        "definition": "A large expanse of open sea, especially one away fr",
+        "etymology": "Derived from the ancient greek word 'πέλαγος'"
+    },
+    {
+        "ancient_greek_word": "παραλία",
+        "english_spelling": "paralia",
+        "english_translation": "beach",
+        "pronunciation": "Παραλία",
+        "part_of_speech": "noun",
+        "definition": "A strip of sand or shingle near the water's edge, typically at the edge of a sea or ocean.",
+        "etymology": "Derived from the ancient greek word 'παράλιος', meaning 'by the shore'",
+        "example": [
+            "Οι παιδιά παίζουν στην παραλία.",
+            "Oi paidia paizoun stin paralia.",
+            "The children are playing on the beach."
+        ]
+    },
+    {
+        "ancient_greek_word": "ακτή",
+        "english_spelling": "akti",
+        "english_translation": "coast",
+        "pronunciation": "Ακτή",
+        "part_of_speech": "noun",
+        "definition": "The land along the edge of a sea, lake, or ocean.",
+        "etymology": "Derived from the ancient greek word 'ακτή', meaning 'coast, shore'",
+        "example": [
+            "Η ακτή ήταν πλούσια σε φυσικές πηγές.",
+            "I akti itan plousia se fisikes piges.",
+            "The coast was rich in natural resources."
+        ]
+    },
+    {
+        "ancient_greek_word": "νήσος",
+        "english_spelling": "nisos",
+        "english_translation": "island",
+        "pronunciation": "Νήσος",
+        "part_of_speech": "noun",
+        "definition": "A piece of land surrounded by water.",
+        "etymology": "Derived from the ancient greek word 'νῆσος', meaning 'island'",
+        "example": [
+            "Οι νήσοι είναι γεμάτοι από όμορφες παραλίες.",
+            "Oi nisoi einai gematoi apo omorfes paralies.",
+            "The islands are full of beautiful beaches."
+        ]
+    },
+    {
+        "ancient_greek_word": "πελάγη",
+        "english_spelling": "pelagē",
+        "english_translation": "ocean",
+        "pronunciation": "pə-ˈlā-jē",
+        "part_of_speech": "noun",
+        "definition": "A vast body of salt water that covers nearly three-quarters of the earth's surface.",
+        "etymology": "Derived from the Greek word πέλαγος (pelagos), meaning 'open sea' or 'vast expanse of water'.",
+        "example": [
+            "Το πελάγη είναι πολύ μεγάλο.",
+            "To pelagē einai poly megalō.",
+            "The ocean is very big."
+        ]
+    },
+    {
+        "ancient_greek_word": "πεταλούδα",
+        "english_spelling": "petalouda",
+        "english_translation": "seagull",
+        "pronunciation": "pə-tə-ˈlü-də",
+        "part_of_speech": "noun",
+        "definition": "A gull-like bird that is typically found near coastal areas and feeds on fish and other seafood.",
+        "etymology": "Derived from the Greek words πέταλον (petalon), meaning 'leaf' or 'blade', and οἶδα (oida), meaning 'I know' or 'I understand'.",
+        "example": [
+            "Πολλές πεταλούδες πετάνε πάνω από τη θάλασσα.",
+            "Polles petaloudes petane apo tin thalassa.",
+            "Many seagulls fly over the ocean."
+        ]
+    }
+]

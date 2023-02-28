@@ -1,0 +1,34 @@
+Hello! 
+
+I would like to practice my ancient greek
+vocabulary.  
+
+Please help me generate a vocabulary list
+centered around the topic: "volcanoes"
+
+The vocabulary words should be specific, useful,
+varied, and directly related to the topic.
+
+I would like you to generate 40 json values of the
+following format:
+
+{
+    "ancient_greek_word":  xxx, # written in ancient greek characters, lower cased
+    "english_spelling":    xxx,   
+    "english_translation": xxx,
+    "pronunciation":       xxx, # phonetic spelling of the ancient greek word, make sure it is quoted
+    "part_of_speech":      xxx,
+    "gender":              xxx,
+    "definition":          xxx,
+    "etymology":           xxx,
+
+    #this is an example sentence
+    "example": [
+        <ancient-greek-example-sentence>,
+        <english-spelling-of-the-ancient-greek-example-sentence>,
+        <translation-into-english-of-the-ancient-greek-example-sentence>,
+    }
+}
+
+We have already seen the following words and should not repeat them:
+ψυχή
